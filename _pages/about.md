@@ -63,7 +63,7 @@ $^{\dagger}$ indicates corresponding author
 
 - Repeated Padding for Sequential Recommendation\
   `RecSys 2024` | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
-  **Dang Yizhou**, Yuting Liu, Yang Enneng, Guo Guibing, Jiang Linying, Wang, Xingwei$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
+  **Dang Yizhou**, Yuting Liu, Yang Enneng, Guo Guibing, Jiang Linying, Wang Xingwei$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
 
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
   `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) \
@@ -85,8 +85,9 @@ $^{\dagger}$ indicates corresponding author
 - Conference Reviewers: 
   - KDD 2024
 - Journal Reviewers:
-  - ACM Transactions on Recommender Systems
-  - IEEE Transactions on Knowledge and Data Engineering
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - ACM Transactions on Recommender Systems (TORS)
+
 
 
   
