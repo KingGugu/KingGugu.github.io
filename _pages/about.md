@@ -81,9 +81,10 @@ $^{\dagger}$ indicates corresponding author
 
 - Conference Reviewers: 
   - KDD 2024
-- Journal Reviewers: 
-  - IEEE Transactions on Knowledge and Data Engineering
+- Journal Reviewers:
   - ACM Transactions on Recommender Systems
+  - IEEE Transactions on Knowledge and Data Engineering
+
 
   
 
