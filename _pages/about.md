@@ -17,42 +17,80 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a second-year PhD student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof. Guibing Guo](http://sc.neu.edu.cn/) at [DSLab](https://www.dslab.org.cn/). Before that, I earned my B.E. degree in 2023 at the same institute.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests focus on recommender systems, especially sequential recommendation and data augmentation methods. Also, I am interested in large language models.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024
+- *2023.10*: &nbsp;🎉 One paper is accepted by TKDE
+- *2023.06*: &nbsp;🎓 I graduated from NEU!
+- *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship.
+- *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[comment]: <> (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[comment]: <> (<div class='paper-box-text' markdown="1">)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[comment]: <> ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[comment]: <> (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[comment]: <> ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[comment]: <> (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[comment]: <> (</div>)
+
+[comment]: <> (</div>)
+
+$^{\dagger}$ indicates corresponding author
+
+- Repeated Padding for Sequential Recommendation\
+  `RecSys 2024` | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
+  **Dang Yizhou**, Yuting Liu, Yang Enneng, Guo Guibing, Jiang Linying, Wang, Xingwei$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
+
+- TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
+  `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) \
+  **Dang Yizhou**, Yang Enneng, Guo Guibing$^{\dagger}$, Jiang Linying, Wang, Xingwei$^{\dagger}$, Xu Xiaoxiao, Sun Qinghui, Liu Hong
+
+- Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation\
+  `AAAI 2023` Oral Presentation | [**Paper**](https://github.com/KingGugu/TiCoSeRec) [**Code**](https://arxiv.org/abs/2212.08262) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
+  **Dang Yizhou**, Yang Enneng, Guo Guibing$^{\dagger}$, Jiang Linying, Wang, Xingwei$^{\dagger}$, Xu Xiaoxiao, Sun Qinghui, Liu Hong
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2019.09 - 2023.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2028.06 (Excepted)*, Ph.D. in Software Engineering, Northeastern University, Shenyang, China.
+- *2019.09 - 2023.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Service
+
+- Conference Reviewers: 
+  - KDD 2024
+- Journal Reviewers: 
+  - IEEE Transactions on Knowledge and Data Engineering
+  - ACM Transactions on Recommender Systems
+
+
+[comment]: <> (# 🎖 Honors and Awards)
+
+[comment]: <> (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+
+[comment]: <> (# 💬 Invited Talks)
+
+[comment]: <> (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[comment]: <> (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
+
+
+[comment]: <> (# 💻 Internships)
+
+[comment]: <> (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
