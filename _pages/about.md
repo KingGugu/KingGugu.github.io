@@ -62,7 +62,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 $^{\dagger}$ indicates corresponding author
 
-- Repeated Padding for Sequential Recommendation\
+- Repeated Padding for Sequential Recommendation \
   `RecSys 2024` | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
   **Dang Yizhou**, Yuting Liu, Yang Enneng, Guo Guibing, Jiang Linying, Wang Xingwei$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
 
@@ -70,14 +70,14 @@ $^{\dagger}$ indicates corresponding author
   `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) \
   **Dang Yizhou**, Yang Enneng, Guo Guibing$^{\dagger}$, Jiang Linying, Wang, Xingwei$^{\dagger}$, Xu Xiaoxiao, Sun Qinghui, Liu Hong
 
-- Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation\
+- Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation \
   `AAAI 2023` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2212.08262) [**Code**](https://github.com/KingGugu/TiCoSeRec) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
   **Dang Yizhou**, Yang Enneng, Guo Guibing$^{\dagger}$, Jiang Linying, Wang, Xingwei$^{\dagger}$, Xu Xiaoxiao, Sun Qinghui, Liu Hong
 
 
 # 📖 Educations
 
-- *2023.09 - 2028.06 (Excepted)*, Ph.D. in Software Engineering, Northeastern University, Shenyang, China.
+- *2023.09 - 2028.06 (Expected)*, Ph.D. in Software Engineering, Northeastern University, Shenyang, China.
 - *2019.09 - 2023.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
 
 
