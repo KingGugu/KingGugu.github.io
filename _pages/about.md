@@ -36,8 +36,7 @@ My research interests focus on recommender systems, especially sequential recomm
 
 # ✨ Repositories
 
-- **DA-CL-4Rec** \
-  <font color="red">400+ Papers!</font> [**Link**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) \
+- **DA-CL-4Rec** <font color="red">400+ Papers!</font> [**Link**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) \
   This repository collects the latest research progress of Contrastive Learning (CL) and Data Augmentation (DA) in Recommender Systems. Comments and contributions are welcome.
 
 
