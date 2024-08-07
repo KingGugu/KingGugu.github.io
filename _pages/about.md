@@ -22,7 +22,9 @@ I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io
 Before that, I earned my B.E. degree in 2023 at the same institute.
 I work closely with [Enneng Yang](https://ennengyang.github.io/).
 
-My research interests focus on recommender systems, especially sequential recommendation and data augmentation methods. Also, I am interested in large language models.
+My research interests focus on recommender systems (RS), especially sequential recommendation and data augmentation methods. 
+Also, I am interested in large language models for RS.
+Please feel free to contact me by email if you have any questions or seeking collaborations.
 
 
 # 🔥 News
@@ -36,8 +38,8 @@ My research interests focus on recommender systems, especially sequential recomm
 
 # ✨ Repositories
 
-- [**DA-CL-4Re**](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">400+ Papers!</font> [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) \
-  This repository collects the latest research progress of Contrastive Learning (CL) and Data Augmentation (DA) in Recommender Systems. Comments and contributions are welcome.
+- [**DA&CL4Rec**](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">400+ Papers!</font> [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) \
+  This repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
 
 
 # 📝 Publications 
