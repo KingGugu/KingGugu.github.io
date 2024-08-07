@@ -30,7 +30,7 @@ My research interests focus on recommender systems, especially sequential recomm
 - *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024
 - *2023.10*: &nbsp;🎉 One paper is accepted by TKDE
 - *2023.06*: &nbsp;🎓 I graduated from NEU!
-- *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship.
+- *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship
 - *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
 
 
@@ -77,6 +77,16 @@ $^{\dagger}$ indicates corresponding author
 
 - *2023.09 - 2028.06 (Excepted)*, Ph.D. in Software Engineering, Northeastern University, Shenyang, China.
 - *2019.09 - 2023.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
+
+
+# 🎖 Honors and Awards
+
+- *2023* National Scholarship for Graduate Student (Top 1%)
+- *2022,2023* First-Class Scholarship from NEU
+- *2022* AAAI Student Scholarship
+- *2022* Baidu App User Experience Analysis Competition, First Prize
+- *2022* Ministry of Education - Huawei Smart Base Future Stars
+- *2021,2022* Huawei Smart Base Scholarship
 
 
 # 💻 Service
