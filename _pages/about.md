@@ -23,11 +23,18 @@ My research interests focus on recommender systems, especially sequential recomm
 
 
 # 🔥 News
+
 - *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024
 - *2023.10*: &nbsp;🎉 One paper is accepted by TKDE
 - *2023.06*: &nbsp;🎓 I graduated from NEU!
 - *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship.
 - *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
+
+
+# ✨ Repositories
+
+- 400+ Papers **Awesome Contrastive Learning & Data Augmentation RS Paper with Code** [**Link**](https://github.com/KingGugu/DA-CL-4Rec) \
+  This repository collects the latest research progress of Contrastive Learning (CL) and Data Augmentation (DA) in Recommender Systems. Comments and contributions are welcome.
 
 
 # 📝 Publications 
@@ -59,11 +66,12 @@ $^{\dagger}$ indicates corresponding author
   **Dang Yizhou**, Yang Enneng, Guo Guibing$^{\dagger}$, Jiang Linying, Wang, Xingwei$^{\dagger}$, Xu Xiaoxiao, Sun Qinghui, Liu Hong
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation\
-  `AAAI 2023` Oral Presentation | [**Paper**](https://github.com/KingGugu/TiCoSeRec) [**Code**](https://arxiv.org/abs/2212.08262) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
+  `AAAI 2023` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2212.08262) [**Code**](https://github.com/KingGugu/TiCoSeRec) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
   **Dang Yizhou**, Yang Enneng, Guo Guibing$^{\dagger}$, Jiang Linying, Wang, Xingwei$^{\dagger}$, Xu Xiaoxiao, Sun Qinghui, Liu Hong
 
 
 # 📖 Educations
+
 - *2023.09 - 2028.06 (Excepted)*, Ph.D. in Software Engineering, Northeastern University, Shenyang, China.
 - *2019.09 - 2023.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
 
@@ -76,13 +84,7 @@ $^{\dagger}$ indicates corresponding author
   - IEEE Transactions on Knowledge and Data Engineering
   - ACM Transactions on Recommender Systems
 
-
-[comment]: <> (# 🎖 Honors and Awards)
-
-[comment]: <> (- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-[comment]: <> (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
+  
 
 [comment]: <> (# 💬 Invited Talks)
 
