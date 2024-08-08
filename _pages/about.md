@@ -81,7 +81,7 @@ $^{\dagger}$ indicates corresponding author
 - *2019.09 - 2023.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
 - *2023* National Scholarship for Graduate Student (Top 1%)
 - *2022,2023* First-Class Scholarship from NEU
@@ -89,6 +89,7 @@ $^{\dagger}$ indicates corresponding author
 - *2022* Baidu App User Experience Analysis Competition, First Prize
 - *2022* Ministry of Education - Huawei Smart Base Future Stars
 - *2021,2022* Huawei Smart Base Scholarship
+- *2020* Outstanding Student of NEU
 
 
 # 💻 Service
