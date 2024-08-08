@@ -64,15 +64,15 @@ $^{\dagger}$ indicates corresponding author
 
 - Repeated Padding for Sequential Recommendation \
   `RecSys 2024` | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
-  **Dang Yizhou**, Yuting Liu, Yang Enneng, Guo Guibing, Jiang Linying, Wang Xingwei$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
+  **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
 
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
   `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) \
-  **Dang Yizhou**, Yang Enneng, Guo Guibing$^{\dagger}$, Jiang Linying, Wang, Xingwei$^{\dagger}$, Xu Xiaoxiao, Sun Qinghui, Liu Hong
+  **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation \
   `AAAI 2023` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2212.08262) [**Code**](https://github.com/KingGugu/TiCoSeRec) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
-  **Dang Yizhou**, Yang Enneng, Guo Guibing$^{\dagger}$, Jiang Linying, Wang, Xingwei$^{\dagger}$, Xu Xiaoxiao, Sun Qinghui, Liu Hong
+  **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
 
 
 # 📖 Educations
