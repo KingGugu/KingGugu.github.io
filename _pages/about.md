@@ -63,7 +63,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 $^{\dagger}$ indicates corresponding author
 
 - Repeated Padding for Sequential Recommendation \
-  `RecSys 2024` | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
+  `RecSys 2024` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
 
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
