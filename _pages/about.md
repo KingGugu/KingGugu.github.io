@@ -36,9 +36,11 @@ Please feel free to contact me by email if you have any questions or seeking col
 - *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
 
 
-# ✨ Repositories
-
-- [**DA&CL4Rec**](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">400+ Papers!</font> [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) \
+# ✨ Surveys
+- Data Augmentation for Sequential Recommendation: A Survey \
+  `arXiv 2024` | [**Paper**](https://arxiv.org/pdf/2409.13545) \
+  **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao
+  Corresponding Paper List: [**DA&CL4Rec**](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">400+ Papers!</font> [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) \
   This repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
 
 
@@ -63,7 +65,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 $^{\dagger}$ indicates corresponding author
 
 - Repeated Padding for Sequential Recommendation \
-  `RecSys 2024` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
+  `RecSys 2024` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
 
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
@@ -71,7 +73,7 @@ $^{\dagger}$ indicates corresponding author
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation \
-  `AAAI 2023` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2212.08262) [**Code**](https://github.com/KingGugu/TiCoSeRec) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
+  `AAAI 2023` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2212.08262) [**Code**](https://github.com/KingGugu/TiCoSeRec) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
 
 
