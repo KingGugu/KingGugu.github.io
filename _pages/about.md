@@ -39,7 +39,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 # ✨ Surveys
 - Data Augmentation for Sequential Recommendation: A Survey \
   `arXiv 2024` | [**Paper**](https://arxiv.org/pdf/2409.13545) \
-  **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao
+  **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao \
   Corresponding Paper List: [**DA&CL4Rec**](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">400+ Papers!</font> [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) \
   This repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
 
