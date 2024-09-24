@@ -29,7 +29,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 # 🔥 News
 
-- *2024.07*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
+- *2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
 - *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024
 - *2023.10*: &nbsp;🎉 One paper is accepted by TKDE
 - *2023.06*: &nbsp;🎓 I graduated from NEU!
