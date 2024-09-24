@@ -36,14 +36,6 @@ Please feel free to contact me by email if you have any questions or seeking col
 - *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
 
 
-# ✨ Surveys
-- Data Augmentation for Sequential Recommendation: A Survey \
-  `arXiv 2024` | [**Paper**](https://arxiv.org/pdf/2409.13545) \
-  **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao \
-  Corresponding Paper List: [**DA&CL4Rec**](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">400+ Papers!</font> [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) \
-  This repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
-
-
 # 📝 Publications 
 
 [comment]: <> (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
@@ -61,6 +53,15 @@ Please feel free to contact me by email if you have any questions or seeking col
 [comment]: <> (</div>)
 
 [comment]: <> (</div>)
+
+## ✨ Surveys
+
+- Data Augmentation for Sequential Recommendation: A Survey \
+  `arXiv 2024` | [**Paper**](https://arxiv.org/pdf/2409.13545) [**DA&CL4Rec**](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">400+ Papers!</font> [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) \
+  **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao \
+  The repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
+
+## Research Papers
 
 $^{\dagger}$ indicates corresponding author
 
