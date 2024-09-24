@@ -56,6 +56,8 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 [comment]: <> (✨) 
 
+$^{\dagger}$ indicates corresponding author
+
 ## Surveys
 
 - Data Augmentation for Sequential Recommendation: A Survey \
@@ -64,8 +66,6 @@ Please feel free to contact me by email if you have any questions or seeking col
   The repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
 
 ## Research Papers
-
-$^{\dagger}$ indicates corresponding author
 
 - Repeated Padding for Sequential Recommendation \
   `RecSys 2024` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
