@@ -20,7 +20,7 @@ redirect_from:
 Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a second-year PhD student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. 
 I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/) at [DSLab](https://www.dslab.org.cn/). 
 Before that, I earned my B.E. degree in 2023 at the same institute.
-I work closely with [Enneng Yang](https://ennengyang.github.io/) and [Yuting Liu](https://scholar.google.com/citations?hl=zh-CN&user=lld-fdUAAAAJ).
+I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://scholar.google.com/citations?hl=zh-CN&user=lld-fdUAAAAJ).
 
 My research interests focus on recommender systems (RS), especially sequential recommendation and data augmentation methods. 
 Also, I am interested in large language models for RS.
