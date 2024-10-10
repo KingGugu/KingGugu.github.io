@@ -73,7 +73,7 @@ $^{\dagger}$ indicates corresponding author
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
 
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
-  `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) \
+  `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec) \
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation \
