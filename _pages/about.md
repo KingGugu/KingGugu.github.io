@@ -29,6 +29,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 # 🔥 News
 
+- *2024.11*: &nbsp;🎉 One paper is accepted by TOIS
 - *2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
 - *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024
 - *2023.10*: &nbsp;🎉 One paper is accepted by TKDE
@@ -67,6 +68,9 @@ $^{\dagger}$ indicates corresponding author
   The repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
 
 ## Research Papers
+- Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
+  `TOIS 2024` | Just Accepted \
+  **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang
 
 - Repeated Padding for Sequential Recommendation \
   `RecSys 2024` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
