@@ -71,7 +71,7 @@ $^{\dagger}$ indicates corresponding author
 ## Research Papers
 
 - Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
-  `TOIS 2024` | Just Accepted \
+  `TOIS 2024` | [**Paper**]() [**Code**](https://github.com/KingGugu/GFEraser) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang
 
 - Repeated Padding for Sequential Recommendation \
