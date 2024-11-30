@@ -70,6 +70,8 @@ $^{\dagger}$ indicates corresponding author
 
 ## Research Papers
 
+### In the year of 2024:
+
 - Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
   `TOIS 2024` | [**Paper**]() [**Code**](https://github.com/KingGugu/GFEraser) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang
@@ -77,6 +79,8 @@ $^{\dagger}$ indicates corresponding author
 - Repeated Padding for Sequential Recommendation \
   `RecSys 2024` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
+
+### In the year of 2023:
 
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
   `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec) \
