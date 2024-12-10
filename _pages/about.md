@@ -29,6 +29,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 # 🔥 News
 
+- *2024.12*: &nbsp;🎉 Three papers are accepted by AAAI 2025
 - *2024.11*: &nbsp;🎉 One paper is accepted by TOIS
 - *2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
 - *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024
@@ -69,6 +70,20 @@ $^{\dagger}$ indicates corresponding author
 
 
 ## Research Papers
+
+### In the year of 2025:
+
+- Augmenting Sequential Recommendation with Balanced Relevance and Diversity \
+  `AAAI 2025` | Just Accepted \
+  **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
+
+- CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
+  `AAAI 2025` | Just Accepted \
+  Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
+
+- Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation \
+  `AAAI 2025` | Just Accepted \
+  Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
 
 ### In the year of 2024:
 
