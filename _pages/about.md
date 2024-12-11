@@ -75,15 +75,15 @@ $^{\dagger}$ indicates corresponding author
 
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity \
   `AAAI 2025` | [**Paper**](https://kinggugu.github.io/) [**Code**](https://github.com/KingGugu/BASRec) \
-  **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
+  **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
   `AAAI 2025` | Just Accepted \
-  Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
+  Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Yuliang Liang, Qiang Liu$^{\dagger}$, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
 
 - Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation \
   `AAAI 2025` | Just Accepted \
-  Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
+  Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 ### In the year of 2024:
 
