@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a second-year PhD student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. 
+Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a second-year Ph.D student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. 
 I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/) at [DSLab](https://www.dslab.org.cn/). 
 Before that, I earned my B.E. degree in 2023 at the same institute.
 I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://scholar.google.com/citations?hl=zh-CN&user=lld-fdUAAAAJ).
