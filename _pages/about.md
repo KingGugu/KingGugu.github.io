@@ -29,6 +29,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 # 🔥 News
 
+- *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025
 - *2024.12*: &nbsp;🎉 Three papers are accepted by AAAI 2025
 - *2024.11*: &nbsp;🎉 One paper is accepted by TOIS
 - *2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
@@ -84,6 +85,11 @@ $^{\dagger}$ indicates corresponding author
 - Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation \
   `AAAI 2025` | Just Accepted \
   Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
+
+- Harnessing Content and Structure in ID For Multimodal Recommendation \
+  `ICASSP 2025` | Just Accepted \
+  Yuting Liu, Enneng Yang, **Yizhou Dang**, Guibing Guo, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang
+
 
 ### In the year of 2024:
 
