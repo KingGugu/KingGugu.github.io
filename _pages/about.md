@@ -94,7 +94,7 @@ $^{\dagger}$ indicates corresponding author
 ### In the year of 2024:
 
 - Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
-  `TOIS 2024` | [**Paper**](https://dl.acm.org/doi/10.1145/3706633) [**Code**](https://github.com/KingGugu/GFEraser) \
+  `TOIS 2024` (ACM Transactions on Information Systems) | [**Paper**](https://dl.acm.org/doi/10.1145/3706633) [**Code**](https://github.com/KingGugu/GFEraser) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang
 
 - Repeated Padding for Sequential Recommendation \
@@ -104,7 +104,7 @@ $^{\dagger}$ indicates corresponding author
 ### In the year of 2023:
 
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
-  `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec) \
+  `TKDE 2023` (IEEE Transactions on Knowledge and Data Engineering) | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec) \
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation \
