@@ -79,7 +79,7 @@ $^{\dagger}$ indicates corresponding author
   **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
-  `AAAI 2025` | [**Paper**](https://arxiv.org/abs/2408.10645) [**Code**](https://github.com/VanillaCreamer/CoRA) \
+  `AAAI 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2408.10645) [**Code**](https://github.com/VanillaCreamer/CoRA) \
   Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Yuliang Liang, Qiang Liu$^{\dagger}$, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
 
 - Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation \
