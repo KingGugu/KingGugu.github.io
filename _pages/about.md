@@ -60,7 +60,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 [comment]: <> (✨) 
 
-$^{\dagger}$ indicates corresponding author
+$^{\dagger}$ indicates corresponding author, * indicates equal contribution
 
 ## Surveys
 
@@ -83,12 +83,12 @@ $^{\dagger}$ indicates corresponding author
   Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Yuliang Liang, Qiang Liu$^{\dagger}$, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
 
 - Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation \
-  `AAAI 2025` | [**Paper**](https://kinggugu.github.io/) [**Code**](https://kinggugu.github.io/) \
+  `AAAI 2025` | \
   Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - Harnessing Content and Structure in ID For Multimodal Recommendation \
-  `ICASSP 2025` | [**Paper**](https://arxiv.org/pdf/2311.05956) [**Code**](https://kinggugu.github.io/) \
-  Yuting Liu, Enneng Yang, **Yizhou Dang**, Guibing Guo, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang
+  `ICASSP 2025` | [**Paper**](https://arxiv.org/pdf/2311.05956) \
+  Yuting Liu*, Enneng Yang*, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang
 
 
 ### In the year of 2024:
