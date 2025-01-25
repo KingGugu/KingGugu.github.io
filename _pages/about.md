@@ -43,7 +43,6 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 <ul class="projects-box" id="projects-box">
 <li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025</li>
-<li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025</li>
 <li><em>2024.12</em>: 🎉 One paper is accepted by ICASSP 2025</li>
 <li><em>2024.12</em>: 🎉 Three papers are accepted by AAAI 2025</li>
 <li><em>2024.11</em>: 🎉 One paper is accepted by TOIS</li>
