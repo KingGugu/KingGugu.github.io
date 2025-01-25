@@ -40,15 +40,15 @@ Please feel free to contact me by email if you have any questions or seeking col
 - *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
 
 <ul class="projects-box" id="projects-box">
-<li> 2024.12: 🎉 One paper is accepted by ICASSP 2025 </li>
-<li> 2024.12: 🎉 Three papers are accepted by AAAI 2025 <li> 
-<li> 2024.11: 🎉 One paper is accepted by TOIS <li> 
-<li> 2024.09: 🔊 We released a survey on data augmentation for sequential recommendation <li> 
-<li> 2024.07: 🎉 One paper is accepted by RecSys 2024 <li> 
-<li> 2023.10: 🎉 One paper is accepted by TKDE <li> 
-<li> 2023.06: 🎓 I graduated from NEU! <li> 
-<li> 2022.12: 🏅 I'm honored to receive the AAAI 2023 student scholarship <li> 
-<li> 2022.11: 🎉 One paper is accepted by AAAI 2023 <li> 
+    <li> 2024.12: 🎉 One paper is accepted by ICASSP 2025
+    <li> 2024.12: 🎉 Three papers are accepted by AAAI 2025
+    <li> 2024.11: 🎉 One paper is accepted by TOIS
+    <li> 2024.09: 🔊 We released a survey on data augmentation for sequential recommendation
+    <li> 2024.07: 🎉 One paper is accepted by RecSys 2024
+    <li> 2023.10: 🎉 One paper is accepted by TKDE
+    <li> 2023.06: 🎓 I graduated from NEU!
+    <li> 2022.12: 🏅 I'm honored to receive the AAAI 2023 student scholarship
+    <li> 2022.11: 🎉 One paper is accepted by AAAI 2023
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
 </ul>
 
