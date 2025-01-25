@@ -40,6 +40,9 @@ Please feel free to contact me by email if you have any questions or seeking col
 - *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship
 - *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<tr>
+<td style="padding:20px;width:100%;vertical-align:middle">
 <ul class="projects-box" id="projects-box">
 <li> 2024.12: 🎉 One paper is accepted by ICASSP 2025 </li>
 <li> 2024.12*: &nbsp;🎉 Three papers are accepted by AAAI 2025
@@ -52,6 +55,9 @@ Please feel free to contact me by email if you have any questions or seeking col
 <li> 2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
 </ul>
+\</td>
+</tr>
+</table>
 
 
 # 📝 Publications 
