@@ -29,7 +29,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 # 🔥 News
 
-
+- *2025.01*: &nbsp;🎉 Two papers are accepted by DASFAA 2025
 - *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025
 - *2024.12*: &nbsp;🎉 Three papers are accepted by AAAI 2025
 - *2024.11*: &nbsp;🎉 One paper is accepted by TOIS
@@ -39,25 +39,6 @@ Please feel free to contact me by email if you have any questions or seeking col
 - *2023.06*: &nbsp;🎓 I graduated from NEU!
 - *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship
 - *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-<tr>
-<td style="padding:20px;width:100%;vertical-align:middle">
-<ul class="projects-box" id="projects-box">
-<li> 2024.12: 🎉 One paper is accepted by ICASSP 2025 </li>
-<li> 2024.12*: &nbsp;🎉 Three papers are accepted by AAAI 2025
-<li> 2024.11*: &nbsp;🎉 One paper is accepted by TOIS
-<li> 2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
-<li> 2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024
-<li> 2023.10*: &nbsp;🎉 One paper is accepted by TKDE
-<li> 2023.06*: &nbsp;🎓 I graduated from NEU!
-<li> 2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship
-<li> 2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
-<p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
-</ul>
-\</td>
-</tr>
-</table>
 
 
 # 📝 Publications 
@@ -109,6 +90,14 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 - Harnessing Content and Structure in ID For Multimodal Recommendation \
   `ICASSP 2025` | [**Paper**](https://arxiv.org/pdf/2311.05956)  \
   Yuting Liu*, Enneng Yang*, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang
+
+- Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation \
+  `DASFAA 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2403.08246)  \
+  Yuting Liu, **Yizhou Dang**, YuLiang Liang, Qiang Liu, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+
+- Self-supervised Hierarchical Representation for Medication Recommendation \
+  `DASFAA 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2411.03143)  \
+  YuLiang Liang, Yuting Liu, **Yizhou Dang**, Enneng Yang, Guibing Guo, Wei Cai, Jianzhe Zhao, Xingwei Wang
 
 
 ### In the year of 2024:
