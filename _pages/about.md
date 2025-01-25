@@ -41,6 +41,20 @@ Please feel free to contact me by email if you have any questions or seeking col
 - *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
 
 
+<ul class="projects-box" id="projects-box">
+- *2025.01*: &nbsp;🎉 Two papers are accepted by DASFAA 2025
+- *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025
+- *2024.12*: &nbsp;🎉 Three papers are accepted by AAAI 2025
+- *2024.11*: &nbsp;🎉 One paper is accepted by TOIS
+- *2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation
+- *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024
+- *2023.10*: &nbsp;🎉 One paper is accepted by TKDE
+- *2023.06*: &nbsp;🎓 I graduated from NEU!
+- *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship
+- *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
+<p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
+</ul>
+
 # 📝 Publications 
 
 [comment]: <> (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
