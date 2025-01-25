@@ -150,24 +150,6 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=343739&w=300&t=tt&d=eimuBYNRaOftpcjrQ9vfEm6Gggdhdu4Hf6ZB0_3CvPA&co=ffffff&cmo=009fff&cmn=18e0ff&ct=00196b'></script>
 
 
-<script>
-  let show = false;
-  document.querySelector('#projects-show').onclick = function() {
-    if (!show) {
-      document.querySelector('#projects-box').style.height = 'auto';
-      document.querySelector('#projects-box').style.paddingBottom = '20px';
-      document.querySelector('#projects-show-text').innerHTML = 'Less';
-      show = true;
-    } else {
-      show = false;
-      document.querySelector('#projects-box').style.height = '160px';
-      document.querySelector('#projects-box').style.paddingBottom = '0px';
-      document.querySelector('#projects-show-text').innerHTML = 'More';
-    }
-  }
-</script>
-
-
 [comment]: <> (# 💬 Invited Talks)
 
 [comment]: <> (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
