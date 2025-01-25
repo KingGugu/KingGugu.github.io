@@ -59,6 +59,7 @@ layout: compress
     {% include scripts.html %}
 
     <script>
+    document.addEventListener('DOMContentLoaded', function() {
       let show = false;
       document.querySelector('#projects-show').onclick = function() {
         if (!show) {
@@ -72,6 +73,7 @@ layout: compress
           document.querySelector('#projects-box').style.paddingBottom = '0px';
           document.querySelector('#projects-show-text').innerHTML = 'More';
         }
+      }
       }
     </script>
   </body>
