@@ -10,7 +10,7 @@ layout: compress
      <style>
     .projects-box {
       /* background-color: green; */
-      height: 160px;
+      height: 180px;
       position: relative;
       overflow: hidden;
       transition: all ease-in .1s;
@@ -23,7 +23,7 @@ layout: compress
       bottom: 0;
       left: 0;
       text-align: center;
-      height: 50px;
+      height: 30px;
       line-height: 20px;
       width: 100%;
       font-size: 12px;
@@ -33,7 +33,7 @@ layout: compress
     }
     .projects-show-text {
       position: relative;
-      top: 10px;
+      top: 15px;
     }
   </style>
   </head>
@@ -67,7 +67,7 @@ layout: compress
               show = true;
             } else {
               show = false;
-              document.querySelector('#projects-box').style.height = '160px';
+              document.querySelector('#projects-box').style.height = '180px';
               document.querySelector('#projects-box').style.paddingBottom = '0px';
               document.querySelector('#projects-show-text').innerHTML = 'More';
             }
