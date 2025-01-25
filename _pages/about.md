@@ -39,6 +39,19 @@ Please feel free to contact me by email if you have any questions or seeking col
 - *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship
 - *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023
 
+<ul class="projects-box" id="projects-box">
+<li> 2024.12: 🎉 One paper is accepted by ICASSP 2025 </li>
+<li> 2024.12: 🎉 Three papers are accepted by AAAI 2025 <li> 
+<li> 2024.11: 🎉 One paper is accepted by TOIS <li> 
+<li> 2024.09: 🔊 We released a survey on data augmentation for sequential recommendation <li> 
+<li> 2024.07: 🎉 One paper is accepted by RecSys 2024 <li> 
+<li> 2023.10: 🎉 One paper is accepted by TKDE <li> 
+<li> 2023.06: 🎓 I graduated from NEU! <li> 
+<li> 2022.12: 🏅 I'm honored to receive the AAAI 2023 student scholarship <li> 
+<li> 2022.11: 🎉 One paper is accepted by AAAI 2023 <li> 
+<p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
+
+
 
 # 📝 Publications 
 
@@ -140,6 +153,23 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=343739&w=300&t=tt&d=eimuBYNRaOftpcjrQ9vfEm6Gggdhdu4Hf6ZB0_3CvPA&co=ffffff&cmo=009fff&cmn=18e0ff&ct=00196b'></script>
 
+
+<script>
+  let show = false;
+  document.querySelector('#projects-show').onclick = function() {
+    if (!show) {
+      document.querySelector('#projects-box').style.height = 'auto';
+      document.querySelector('#projects-box').style.paddingBottom = '20px';
+      document.querySelector('#projects-show-text').innerHTML = 'Less';
+      show = true;
+    } else {
+      show = false;
+      document.querySelector('#projects-box').style.height = '160px';
+      document.querySelector('#projects-box').style.paddingBottom = '0px';
+      document.querySelector('#projects-show-text').innerHTML = 'More';
+    }
+  }
+</script>
 
 
 [comment]: <> (# 💬 Invited Talks)
