@@ -50,6 +50,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 <li> 2022.12: 🏅 I'm honored to receive the AAAI 2023 student scholarship <li> 
 <li> 2022.11: 🎉 One paper is accepted by AAAI 2023 <li> 
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
+</ul>
 
 
 
