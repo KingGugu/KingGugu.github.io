@@ -7,8 +7,7 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-
-    <style>
+          <style>
     .projects-box {
       /* background-color: green; */
       height: 160px;
@@ -59,21 +58,21 @@ layout: compress
     {% include scripts.html %}
 
     <script>
-      let show = false;
-      document.querySelector('#projects-show').onclick = function() {
-        if (!show) {
-          document.querySelector('#projects-box').style.height = 'auto';
-          document.querySelector('#projects-box').style.paddingBottom = '20px';
-          document.querySelector('#projects-show-text').innerHTML = 'Less';
-          show = true;
-        } else {
-          show = false;
-          document.querySelector('#projects-box').style.height = '160px';
-          document.querySelector('#projects-box').style.paddingBottom = '0px';
-          document.querySelector('#projects-show-text').innerHTML = 'More';
-        }
-      }
-    </script>
+          let show = false;
+          document.querySelector('#projects-show').onclick = function() {
+            if (!show) {
+              document.querySelector('#projects-box').style.height = 'auto';
+              document.querySelector('#projects-box').style.paddingBottom = '20px';
+              document.querySelector('#projects-show-text').innerHTML = 'Less';
+              show = true;
+            } else {
+              show = false;
+              document.querySelector('#projects-box').style.height = '160px';
+              document.querySelector('#projects-box').style.paddingBottom = '0px';
+              document.querySelector('#projects-show-text').innerHTML = 'More';
+            }
+          }
+     </script>
   </body>
 
 </html>
