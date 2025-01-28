@@ -48,9 +48,10 @@ Please feel free to contact me by email if you have any questions or seeking col
 <li><em>2024.11</em>: 🎉 One paper is accepted by TOIS</li>
 <li><em>2024.09</em>: 🔊 We released a survey on data augmentation for sequential recommendation</li>
 <li><em>2024.07</em>: 🎉 One paper is accepted by RecSys 2024</li>
+<li><em>2023.10</em>: 🏅 I'm honored to receive the National Scholarship for graduate student (Top 1%)</li>
 <li><em>2023.10</em>: 🎉 One paper is accepted by TKDE</li>
 <li><em>2023.06</em>: 🎓 I graduated from NEU!</li>
-<li><em>2022.12</em>: 🏅 I'm honored to receive the AAAI 2023 student scholarship</li>
+<li><em>2022.12</em>: 🏅 I'm honored to receive the AAAI 2023 Student Scholarship</li>
 <li><em>2022.11</em>: 🎉 One paper is accepted by AAAI 2023</li>
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
 </ul>
