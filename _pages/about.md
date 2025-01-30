@@ -149,8 +149,8 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 - *2022,2023* First-Class Scholarship from NEU
 - *2022* AAAI Student Scholarship
 - *2022* Baidu App User Experience Analysis Competition, First Prize
-- *2022* Ministry of Education - Huawei Smart Base Future Stars
-- *2021,2022* Huawei Smart Base Scholarship
+- *2022* Ministry of Education - Huawei Intelligent Foundation Future Stars
+- *2021,2022* Huawei Intelligent Foundation Scholarship
 - *2020* Outstanding Student of NEU
 
 
