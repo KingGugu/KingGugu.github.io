@@ -112,7 +112,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
   Yuting Liu, **Yizhou Dang**, YuLiang Liang, Qiang Liu, Guibing Guo, Jianzhe Zhao, Xingwei Wang
 
 - Self-supervised Hierarchical Representation for Medication Recommendation \
-  `DASFAA 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2411.03143)  \
+  `DASFAA 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2411.03143) [**Code**](https://github.com/yuliang-liang/HEIR) \
   YuLiang Liang, Yuting Liu, **Yizhou Dang**, Enneng Yang, Guibing Guo, Wei Cai, Jianzhe Zhao, Xingwei Wang
 
 
