@@ -92,7 +92,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 ### In the year of 2025:
 
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity \
-  `AAAI 2025` | [**Paper**](https://arxiv.org/abs/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
+  `AAAI 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
   **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
