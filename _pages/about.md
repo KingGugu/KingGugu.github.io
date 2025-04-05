@@ -40,7 +40,6 @@ Please feel free to contact me by email if you have any questions or seeking col
 [comment]: <> (- *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship)
 [comment]: <> (- *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023)
 
-
 <ul class="projects-box" id="projects-box">
 <li><em>2025.04</em>: 🎉 Two papers are accepted by SIGIR 2025</li>
 <li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025</li>
