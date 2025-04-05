@@ -42,6 +42,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 
 <ul class="projects-box" id="projects-box">
+<li><em>2025.04</em>: 🎉 Two papers are accepted by SIGIR 2025</li>
 <li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025</li>
 <li><em>2024.12</em>: 🎉 One paper is accepted by ICASSP 2025</li>
 <li><em>2024.12</em>: 🎉 Three papers are accepted by AAAI 2025</li>
@@ -91,16 +92,24 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 
 ### In the year of 2025:
 
+- Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
+  `SIGIR 2025` | Just Accepted \
+  **Yizhou Dang**, Yuting Liu, Enneng Yang, Minhan Huang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity \
   `AAAI 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
   **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
+
+- Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
+  `SIGIR 2025` | Just Accepted \
+  Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
 
 - CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
   `AAAI 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2408.10645) [**Code**](https://github.com/VanillaCreamer/CoRA) \
   Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Yuliang Liang, Qiang Liu$^{\dagger}$, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
 
 - Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation \
-  `AAAI 2025` |  \
+  `AAAI 2025` | In Press \
   Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - Harnessing Content and Structure in ID For Multimodal Recommendation \
