@@ -112,17 +112,17 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
   `AAAI 2025` | In Press \
   Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
-- Harnessing Content and Structure in ID For Multimodal Recommendation \
-  `ICASSP 2025` | [**Paper**](https://arxiv.org/pdf/2311.05956) [**Code**](https://github.com/VanillaCreamer/IDSF) \
-  Yuting Liu\*, Enneng Yang\*, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang
-
 - Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation \
   `DASFAA 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2403.08246) [**Code**](https://github.com/VanillaCreamer/LSGRec) \
-  Yuting Liu, **Yizhou Dang**, YuLiang Liang, Qiang Liu, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+  Yuting Liu, **Yizhou Dang**, YuLiang Liang, Qiang Liu, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
 
 - Self-supervised Hierarchical Representation for Medication Recommendation \
   `DASFAA 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2411.03143) [**Code**](https://github.com/yuliang-liang/HEIR) \
   YuLiang Liang, Yuting Liu, **Yizhou Dang**, Enneng Yang, Guibing Guo, Wei Cai, Jianzhe Zhao, Xingwei Wang
+
+- Harnessing Content and Structure in ID For Multimodal Recommendation \
+  `ICASSP 2025` | [**Paper**](https://arxiv.org/pdf/2311.05956) [**Code**](https://github.com/VanillaCreamer/IDSF) \
+  Yuting Liu\*, Enneng Yang\*, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang
 
 
 ### In the year of 2024:
