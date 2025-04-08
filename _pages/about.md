@@ -92,7 +92,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 ### In the year of 2025:
 
 - Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
-  `SIGIR 2025` | Just Accepted \
+  `SIGIR 2025` | [**Paper**](https://arxiv.org/abs/2504.04843) [**Code**](https://github.com/KingGugu/TTA4SR) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Minhan Huang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
 
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity \
