@@ -108,7 +108,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
   Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Yuliang Liang, Qiang Liu$^{\dagger}$, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
 
 - Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation \
-  `AAAI 2025` | In Press \
+  `AAAI 2025` | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/33275) [**Code**](https://github.com/VanillaCreamer/MPC) \
   Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation \
