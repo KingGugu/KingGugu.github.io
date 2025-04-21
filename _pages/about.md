@@ -93,7 +93,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 
 - Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
   `SIGIR 2025` | [**Paper**](https://arxiv.org/abs/2504.04843) [**Code**](https://github.com/KingGugu/TTA4SR) \
-  **Yizhou Dang**, Yuting Liu, Enneng Yang, Minhan Huang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+  **Yizhou Dang**, Yuting Liu, Enneng Yang, Minhan Huang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity \
   `AAAI 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
@@ -101,7 +101,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
   `SIGIR 2025` | Just Accepted \
-  Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo, Jianzhe Zhao, Xingwei Wang
+  Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
 
 - CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
   `AAAI 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2408.10645) [**Code**](https://github.com/VanillaCreamer/CoRA) \
@@ -117,7 +117,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 
 - Self-supervised Hierarchical Representation for Medication Recommendation \
   `DASFAA 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2411.03143) [**Code**](https://github.com/yuliang-liang/HEIR) \
-  YuLiang Liang, Yuting Liu, **Yizhou Dang**, Enneng Yang, Guibing Guo, Wei Cai, Jianzhe Zhao, Xingwei Wang
+  YuLiang Liang, Yuting Liu, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Wei Cai, Jianzhe Zhao, Xingwei Wang
 
 - Harnessing Content and Structure in ID For Multimodal Recommendation \
   `ICASSP 2025` | [**Paper**](https://arxiv.org/pdf/2311.05956) [**Code**](https://github.com/VanillaCreamer/IDSF) \
