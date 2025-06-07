@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a second-year Ph.D. student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. 
-I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/) at [DSLab](https://www.dslab.org.cn/). 
+I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). 
 Before that, I earned my B.E. degree in 2023 at the same institute.
-I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://scholar.google.com/citations?hl=zh-CN&user=lld-fdUAAAAJ).
+I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
 
 My research interests focus on recommender systems (RS), especially sequential recommendation and data augmentation methods. 
 Also, I am interested in large language models for RS.
@@ -92,11 +92,11 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 ### In the year of 2025:
 
 - Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
-  `SIGIR 2025` | [**Paper**](https://arxiv.org/abs/2504.04843) [**Code**](https://github.com/KingGugu/TTA4SR) \
+  `SIGIR 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2504.04843) [**Code**](https://github.com/KingGugu/TTA4SR) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Minhan Huang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity \
-  `AAAI 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
+  `AAAI 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
   **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
@@ -104,7 +104,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
   Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
 
 - CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
-  `AAAI 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2408.10645) [**Code**](https://github.com/VanillaCreamer/CoRA) \
+  `AAAI 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2408.10645) [**Code**](https://github.com/VanillaCreamer/CoRA) \
   Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Yuliang Liang, Qiang Liu$^{\dagger}$, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
 
 - Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation \
@@ -112,11 +112,11 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
   Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation \
-  `DASFAA 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2403.08246) [**Code**](https://github.com/VanillaCreamer/LSGRec) \
+  `DASFAA 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2403.08246) [**Code**](https://github.com/VanillaCreamer/LSGRec) \
   Yuting Liu, **Yizhou Dang**, YuLiang Liang, Qiang Liu, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
 
 - Self-supervised Hierarchical Representation for Medication Recommendation \
-  `DASFAA 2025` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2411.03143) [**Code**](https://github.com/yuliang-liang/HEIR) \
+  `DASFAA 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2411.03143) [**Code**](https://github.com/yuliang-liang/HEIR) \
   YuLiang Liang, Yuting Liu, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Wei Cai, Jianzhe Zhao, Xingwei Wang
 
 - Harnessing Content and Structure in ID For Multimodal Recommendation \
@@ -131,7 +131,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang
 
 - Repeated Padding for Sequential Recommendation \
-  `RecSys 2024` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
+  `RecSys 2024` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
 
 ### In the year of 2023:
@@ -141,7 +141,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation \
-  `AAAI 2023` <font color="red">Oral Presentation</font> | [**Paper**](https://arxiv.org/abs/2212.08262) [**Code**](https://github.com/KingGugu/TiCoSeRec) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
+  `AAAI 2023` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2212.08262) [**Code**](https://github.com/KingGugu/TiCoSeRec) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
 
 
