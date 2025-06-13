@@ -29,6 +29,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 # 🔥 News
 
+[comment]: <> (- *2025.01*: &nbsp;🎉 One paper is accepted by MIR)
 [comment]: <> (- *2025.01*: &nbsp;🎉 Two papers are accepted by DASFAA 2025)
 [comment]: <> (- *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025)
 [comment]: <> (- *2024.12*: &nbsp;🎉 Three papers are accepted by AAAI 2025)
@@ -77,7 +78,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 [comment]: <> (✨) 
 
-$^{\dagger}$ indicates corresponding author, * indicates equal contribution
+$^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribution
 
 ## Surveys
 
@@ -98,6 +99,10 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity \
   `AAAI 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
   **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
+
+- Beyond Single Sequence: User Correlation Guided Cross-Sequence Mixing for Sequential Recommendation \
+  `MIR 2025` (Machine Intelligence Research) | Paper Code \
+  Jiahui Zhang$^{\star}$, **Yizhou Dang$^{\star}$**, Enneng Yang, Jianzhe Zhao, Linying Jiang, Guibing Guo$^{\dagger}$, Xingwei Wang
 
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
   `SIGIR 2025` | Paper [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
@@ -121,7 +126,7 @@ $^{\dagger}$ indicates corresponding author, * indicates equal contribution
 
 - Harnessing Content and Structure in ID For Multimodal Recommendation \
   `ICASSP 2025` | [**Paper**](https://arxiv.org/pdf/2311.05956) [**Code**](https://github.com/VanillaCreamer/IDSF) \
-  Yuting Liu\*, Enneng Yang\*, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang
+  Yuting Liu$^{\star}$, Enneng Yang$^{\star}$, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang
 
 
 ### In the year of 2024:
