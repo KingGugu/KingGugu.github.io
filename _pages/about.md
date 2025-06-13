@@ -29,7 +29,6 @@ Please feel free to contact me by email if you have any questions or seeking col
 
 # 🔥 News
 
-[comment]: <> (- *2025.01*: &nbsp;🎉 One paper is accepted by MIR)
 [comment]: <> (- *2025.01*: &nbsp;🎉 Two papers are accepted by DASFAA 2025)
 [comment]: <> (- *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025)
 [comment]: <> (- *2024.12*: &nbsp;🎉 Three papers are accepted by AAAI 2025)
@@ -42,6 +41,7 @@ Please feel free to contact me by email if you have any questions or seeking col
 [comment]: <> (- *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023)
 
 <ul class="projects-box" id="projects-box">
+<li><em>2025.06</em>: 🎉 One paper is accepted by MIR</li>
 <li><em>2025.04</em>: 🎉 Two papers are accepted by SIGIR 2025</li>
 <li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025</li>
 <li><em>2024.12</em>: 🎉 One paper is accepted by ICASSP 2025</li>
