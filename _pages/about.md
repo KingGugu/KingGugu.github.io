@@ -105,7 +105,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   Jiahui Zhang$^{\star}$, **Yizhou Dang$^{\star}$**, Enneng Yang, Jianzhe Zhao, Linying Jiang, Guibing Guo$^{\dagger}$, Xingwei Wang
 
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
-  `SIGIR 2025` | Paper [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
+  `SIGIR 2025` <font color="red">Oral</font> | Paper [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
   Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
 
 - CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
