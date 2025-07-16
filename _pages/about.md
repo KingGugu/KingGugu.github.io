@@ -105,7 +105,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   Jiahui Zhang$^{\star}$, **Yizhou Dang$^{\star}$**, Enneng Yang, Jianzhe Zhao, Linying Jiang, Guibing Guo$^{\dagger}$, Xingwei Wang
 
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
-  `SIGIR 2025` <font color="red">Oral</font> | Paper [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
+  `SIGIR 2025` <font color="red">Oral</font> | [**Paper**](https://dl.acm.org/doi/10.1145/3726302.3729944) [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
   Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
 
 - CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
@@ -136,7 +136,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang
 
 - Repeated Padding for Sequential Recommendation \
-  `RecSys 2024` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2403.06372) [**Code**](https://github.com/KingGugu/RepPad) \
+  `RecSys 2024` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2403.06372v2) [**Code**](https://github.com/KingGugu/RepPad) \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
 
 ### In the year of 2023:
