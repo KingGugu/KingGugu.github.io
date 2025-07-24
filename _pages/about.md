@@ -171,7 +171,8 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 
 - Conference Reviewers: 
   - KDD 2024
-  - IJCAI 2025 (PC for Survey Track)
+  - IJCAI 2025
+  - AAAI 2026
 - Journal Reviewers:
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - ACM Transactions on Recommender Systems (TORS)
