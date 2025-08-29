@@ -83,7 +83,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 ## Surveys
 
 - Data Augmentation for Sequential Recommendation: A Survey \
-  `arXiv 2024` | [**Paper**](https://arxiv.org/abs/2409.13545) [**Code**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">600+ papers contained in the repository!</font>  \
+  `arXiv 2024` | [**Paper**](https://arxiv.org/abs/2409.13545) [**Code**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">700+ papers contained in the repository!</font>  \
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao \
   The repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
 
