@@ -175,6 +175,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   - AAAI 2026
 - Journal Reviewers:
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - ACM Transactions on Information Systems (TOIS)
   - ACM Transactions on Recommender Systems (TORS)
 
 
