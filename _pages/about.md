@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a second-year Ph.D. student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. 
+Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a third-year Ph.D. student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. 
 I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). 
 Before that, I earned my B.E. degree in 2023 at the same institute.
 I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
 
-My research interests focus on recommender systems (RS), especially sequential recommendation and data augmentation methods. 
-Also, I am interested in large language models for RS.
-Please feel free to contact me by email if you have any questions or seeking collaborations.
+My research interests focus on AI for science (protein representation learning and drug discovery) and recommender systems (sequential recommendation).
+
+I am particularly interested in data-centric (data augmentation, data synthesis, etc) methods.
+
+Please feel free to contact me by email if you have any questions or are seeking collaborations.
 
 
 # 🔥 News
