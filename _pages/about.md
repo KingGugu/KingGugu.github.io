@@ -22,7 +22,7 @@ I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io
 Before that, I earned my B.E. degree in 2023 at the same institute.
 I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
 
-My research interests focus on AI for science (protein representation learning and drug discovery) and recommender systems (sequential recommendation).
+My research interests focus on AI for science (protein representation learning and drug discovery) and recommender systems (sequential recommendation and LLM-based recommendation).
 
 I am particularly interested in data-centric (data augmentation, data synthesis, etc) methods.
 
@@ -103,7 +103,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - Beyond Single Sequence: User Correlation Guided Cross-Sequence Mixing for Sequential Recommendation \
-  `MIR 2025` (Machine Intelligence Research) | Paper [**Code**](https://github.com/KingGugu/UCMRec) \
+  `MIR 2025` | Paper [**Code**](https://github.com/KingGugu/UCMRec) | Machine Intelligence Research \
   Jiahui Zhang$^{\star}$, **Yizhou Dang$^{\star}$**, Enneng Yang, Jianzhe Zhao, Linying Jiang, Guibing Guo$^{\dagger}$, Xingwei Wang
 
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
@@ -134,7 +134,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 ### In the year of 2024:
 
 - Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
-  `TOIS 2024` (ACM Transactions on Information Systems) | [**Paper**](https://dl.acm.org/doi/10.1145/3706633) [**Code**](https://github.com/KingGugu/GFEraser) \
+  `TOIS 2024` | [**Paper**](https://dl.acm.org/doi/10.1145/3706633) [**Code**](https://github.com/KingGugu/GFEraser) | ACM Transactions on Information Systems \
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang
 
 - Repeated Padding for Sequential Recommendation \
@@ -144,7 +144,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 ### In the year of 2023:
 
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
-  `TKDE 2023` (IEEE Transactions on Knowledge and Data Engineering) | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec) \
+  `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec) | IEEE Transactions on Knowledge and Data Engineering \
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation \
