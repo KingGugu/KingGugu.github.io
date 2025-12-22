@@ -160,7 +160,8 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 
 # 🏆 Honors and Awards
 
-- *2025* Granted by the Youth Talents Support Project from China Association for Science and Technology (中国科协青年科技人才培育工程博士生专项计划)
+- *2025* Granted by the Youth Talents Support Project from China Association for Science and Technology \
+&emsp;&emsp;&ensp;(中国科协青年科技人才培育工程博士生专项计划)
 - *2023* National Scholarship for Graduate Student (Top 1%)
 - *2022,2023* First-Class Scholarship from NEU
 - *2022* AAAI Student Scholarship
