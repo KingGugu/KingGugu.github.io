@@ -43,6 +43,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 [comment]: <> (- *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023)
 
 <ul class="projects-box" id="projects-box">
+<li><em>2026.1</em>: 🎉 One paper is accepted by WWW 2026 </li>
 <li><em>2025.12</em>: 🏅 I'm honored to Granted by the Youth Talents Support Project from China Association for Science and Technology (中国科协青年科技人才培育工程博士生专项计划)</li>
 <li><em>2025.06</em>: 🎉 One paper is accepted by MIR</li>
 <li><em>2025.04</em>: 🎉 Two papers are accepted by SIGIR 2025</li>
@@ -92,6 +93,12 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 
 
 ## Research Papers
+
+### In the year of 2026:
+
+- Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation \
+  `WWW 2026` (In Press) | [**Paper**] [**Code**] \
+  **Yizhou Dang**, Zhifu Wei, Lianbo Ma, Jianzhe Zhao, Guibing Guo, Xingwei Wang
 
 ### In the year of 2025:
 
@@ -161,7 +168,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 
 # 🏆 Honors and Awards
 
-- *2025* Granted by the Youth Talents Support Project from China Association for Science and Technology \
+- *2025* Youth Talents Support Project from China Association for Science and Technology \
 &emsp;&emsp;&ensp;(中国科协青年科技人才培育工程博士生专项计划)
 - *2023* National Scholarship for Graduate Student (Top 1%)
 - *2022,2023* First-Class Scholarship from NEU
@@ -175,9 +182,9 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 # 💻 Service
 
 - Conference Reviewers: 
-  - KDD 2024
-  - IJCAI 2025
+  - IJCAI 2025,2026
   - AAAI 2026
+  - KDD 2024
 - Journal Reviewers:
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - ACM Transactions on Information Systems (TOIS)
