@@ -28,6 +28,9 @@ I am particularly interested in data-centric (data augmentation, data synthesis,
 
 Please feel free to contact me by email if you have any questions or are seeking collaborations.
 
+
+# 🔥 News
+
 <ul class="projects-box" id="projects-box">
 <li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026 </li>
 <li><em>2025.12</em>: 🏅 I'm honored to Granted by the Youth Talents Support Project from China Association for Science and Technology (中国科协青年科技人才培育工程博士生专项计划)</li>
