@@ -97,7 +97,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
 
 - Beyond Single Sequence: User Correlation Guided Cross-Sequence Mixing for Sequential Recommendation \
-  `MIR 2025` | Paper [**Code**](https://github.com/KingGugu/UCMRec) | Machine Intelligence Research \
+  `MIR 2025` (In Press) | [**Paper**] [**Code**](https://github.com/KingGugu/UCMRec) | Machine Intelligence Research \
   Jiahui Zhang$^{\star}$, **Yizhou Dang$^{\star}$**, Enneng Yang, Jianzhe Zhao, Linying Jiang, Guibing Guo$^{\dagger}$, Xingwei Wang
 
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
