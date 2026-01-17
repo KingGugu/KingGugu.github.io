@@ -28,20 +28,6 @@ I am particularly interested in data-centric (data augmentation, data synthesis,
 
 Please feel free to contact me by email if you have any questions or are seeking collaborations.
 
-
-# 🔥 News
-
-[comment]: <> (- *2025.01*: &nbsp;🎉 Two papers are accepted by DASFAA 2025)
-[comment]: <> (- *2024.12*: &nbsp;🎉 One paper is accepted by ICASSP 2025)
-[comment]: <> (- *2024.12*: &nbsp;🎉 Three papers are accepted by AAAI 2025)
-[comment]: <> (- *2024.11*: &nbsp;🎉 One paper is accepted by TOIS)
-[comment]: <> (- *2024.09*: &nbsp;🔊 We released a survey on data augmentation for sequential recommendation)
-[comment]: <> (- *2024.07*: &nbsp;🎉 One paper is accepted by RecSys 2024)
-[comment]: <> (- *2023.10*: &nbsp;🎉 One paper is accepted by TKDE)
-[comment]: <> (- *2023.06*: &nbsp;🎓 I graduated from NEU!)
-[comment]: <> (- *2022.12*: &nbsp;🏅 I'm honored to receive the AAAI 2023 student scholarship)
-[comment]: <> (- *2022.11*: &nbsp;🎉 One paper is accepted by AAAI 2023)
-
 <ul class="projects-box" id="projects-box">
 <li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026 </li>
 <li><em>2025.12</em>: 🏅 I'm honored to Granted by the Youth Talents Support Project from China Association for Science and Technology (中国科协青年科技人才培育工程博士生专项计划)</li>
@@ -97,8 +83,8 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 ### In the year of 2026:
 
 - Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation \
-  `WWW 2026` (In Press) | [**Paper**] [**Code**] \
-  **Yizhou Dang**, Zhifu Wei, Lianbo Ma, Jianzhe Zhao, Guibing Guo, Xingwei Wang
+  `WWW 2026` (In Press) | [**Paper**] [**Code**](https://github.com/KingGugu/TADA) \
+  **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo, Xingwei Wang
 
 ### In the year of 2025:
 
