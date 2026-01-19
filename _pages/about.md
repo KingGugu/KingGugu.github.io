@@ -86,7 +86,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 ### In the year of 2026:
 
 - Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation \
-  `WWW 2026` (In Press) | [**Paper**] [**Code**](https://github.com/KingGugu/TADA) \
+  `WWW 2026` | [**Paper**](https://arxiv.org/abs/2601.10933) [**Code**](https://github.com/KingGugu/TADA) \
   **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo, Xingwei Wang
 
 ### In the year of 2025:
