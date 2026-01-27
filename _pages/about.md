@@ -22,7 +22,7 @@ I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io
 Before that, I earned my B.E. degree in 2023 at the same institute.
 I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
 
-My research interests focus on AI for science (protein representation learning and drug discovery) and recommender systems (sequential recommendation and LLM-based recommendation).
+My research interests focus on AI for science (enzyme design) and recommender systems (sequential recommendation and LLM-based recommendation).
 
 I am particularly interested in data-centric (data augmentation, data synthesis, etc) methods.
 
@@ -173,7 +173,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 - Conference Reviewers: 
   - IJCAI 2025, 2026
   - AAAI 2026
-  - KDD 2024
+  - KDD 2024, 2026
 - Journal Reviewers:
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - ACM Transactions on Information Systems (TOIS)
