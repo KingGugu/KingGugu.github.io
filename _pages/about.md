@@ -171,8 +171,9 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 # 💻 Service
 
 - Conference Reviewers: 
-  - IJCAI 2025, 2026
+  - SIGIR 2026
   - AAAI 2026
+  - IJCAI 2025, 2026
   - KDD 2024, 2026
 - Journal Reviewers:
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
