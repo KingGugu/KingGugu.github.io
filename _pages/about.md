@@ -32,6 +32,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li><em>2026.02</em>: 🎉 One paper is accepted by TPAMI </li>
 <li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026 </li>
 <li><em>2025.12</em>: 🏅 I'm honored to Granted by the Youth Talents Support Project from China Association for Science and Technology (中国科协青年科技人才培育工程博士生专项计划)</li>
 <li><em>2025.06</em>: 🎉 One paper is accepted by MIR</li>
@@ -80,14 +81,17 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao \
   The repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
 
-
 ## Research Papers
 
 ### In the year of 2026:
 
+- Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation \
+  `TPAMI 2026` (In Press) | [**Paper**] [**Code**] \
+  **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang, and Guibing Guo
+
 - Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation \
   `WWW 2026` | [**Paper**](https://arxiv.org/abs/2601.10933) [**Code**](https://github.com/KingGugu/TADA) \
-  **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo, Xingwei Wang
+  **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$
 
 ### In the year of 2025:
 
