@@ -86,7 +86,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 ### In the year of 2026:
 
 - Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation \
-  `TPAMI 2026` (In Press) | [**Paper**] [**Code**] \
+  `TPAMI 2026` (Just Accepted) | [**Paper**](https://ieeexplore.ieee.org/document/11391565/) [**Code**] | IEEE Transactions on Pattern Analysis and Machine Intelligence \
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang, and Guibing Guo
 
 - Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation \
