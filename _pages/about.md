@@ -35,7 +35,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 <li><em>2026.03</em>: 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal) </li>
 <li><em>2026.02</em>: 🎉 One paper is accepted by TPAMI </li>
 <li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026 </li>
-<li><em>2025.12</em>: 🏅 I'm honored to Granted by the Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)</li>
+<li><em>2025.12</em>: 🏅 I'm honored to Granted by the Young Talent Support Program for Doctoral Students, CAST</li>
 <li><em>2025.06</em>: 🎉 One paper is accepted by MIR</li>
 <li><em>2025.04</em>: 🎉 Two papers are accepted by SIGIR 2025</li>
 <li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025</li>
@@ -167,8 +167,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 
 # 🏆 Honors and Awards
 
-- *2025* Young Talent Support Program for Doctoral Students, CAST \
-&emsp;&emsp;&ensp;(中国科协青年科技人才培育工程博士生专项计划)
+- *2025* Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)
 - *2023* National Scholarship for Graduate Student (Top 1%)
 - *2022,2023* First-Class Scholarship from NEU
 - *2022* AAAI Student Scholarship
