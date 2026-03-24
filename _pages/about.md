@@ -32,6 +32,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li><em>2026.03</em>: 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal) </li>
 <li><em>2026.02</em>: 🎉 One paper is accepted by TPAMI </li>
 <li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026 </li>
 <li><em>2025.12</em>: 🏅 I'm honored to Granted by the Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)</li>
@@ -92,6 +93,11 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 - Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation \
   `WWW 2026` | [**Paper**](https://arxiv.org/abs/2601.10933) [**Code**](https://github.com/KingGugu/TADA) \
   **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$
+
+- Repairing and Enriching Heuristic Data Augmentation for Sequential Recommendation \
+  `JOS 2026` (In Press) | [**Paper**] | Journal of Software (a Chinese journal) \
+  **Yizhou Dang**, Chu Zhao, Linying Jiang, Lianbo Ma, Guibing Guo$^{\dagger}$
+
 
 ### In the year of 2025:
 
