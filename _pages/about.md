@@ -55,31 +55,14 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 # 📝 Publications 
 
-[comment]: <> (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
-
-[comment]: <> (<div class='paper-box-text' markdown="1">)
-
-[comment]: <> ([Deep Residual Learning for Image Recognition]&#40;https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf&#41;)
-
-[comment]: <> (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
-
-[comment]: <> ([**Project**]&#40;https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC&#41; <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>)
-
-[comment]: <> (- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-[comment]: <> (</div>)
-
-[comment]: <> (</div>)
-
-[comment]: <> (✨) 
-
 $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribution
 
 ## Surveys
 
 - Data Augmentation for Sequential Recommendation: A Survey \
-  `arXiv 2024` | [**Paper**](https://arxiv.org/abs/2409.13545) [**Code**](https://github.com/KingGugu/DA-CL-4Rec) [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) <font color="red">700+ papers contained in the repository!</font>  \
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao \
+  [![](https://img.shields.io/github/stars/KingGugu/DA-CL-4Rec)](https://github.com/KingGugu/DA-CL-4Rec) <font color="red"><b>700+ papers</b> contained in the repository!</font>  \
+  [**Paper**](https://arxiv.org/abs/2409.13545) [**Code**](https://github.com/KingGugu/DA-CL-4Rec) \
   The repository collects the latest research progress of Data Augmentation (DA) and Contrastive Learning (CL) in recommender systems. Comments and contributions are welcome.
 
 ## Research Papers
@@ -87,76 +70,93 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 ### In the year of 2026:
 
 - Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation \
-  `TPAMI 2026` | [**Paper**](https://ieeexplore.ieee.org/document/11391565/) [**Code**](https://github.com/KingGugu/TTA4SR) | IEEE Transactions on Pattern Analysis and Machine Intelligence \
-  **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang$^{\dagger}$, and Guibing Guo$^{\dagger}$
+  **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang$^{\dagger}$, and Guibing Guo$^{\dagger}$ \
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color="red"><b>TPAMI</b></font>), 2026 \
+  [**Paper**](https://ieeexplore.ieee.org/document/11391565/) [**Code**](https://github.com/KingGugu/TTA4SR)
 
 - Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation \
-  `WWW 2026` | [**Paper**](https://arxiv.org/abs/2601.10933) [**Code**](https://github.com/KingGugu/TADA) \
-  **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$
-
+  **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$ \
+  The Web Conference (**WWW**), 2026 \
+  [**Paper**](https://arxiv.org/abs/2601.10933) [**Code**](https://github.com/KingGugu/TADA)
+  
 - Repairing and Enriching Heuristic Data Augmentation for Sequential Recommendation \
-  `JOS 2026` (In Press) | [**Paper**] | Journal of Software (a Chinese journal) \
-  **Yizhou Dang**, Chu Zhao, Linying Jiang, Lianbo Ma, Guibing Guo$^{\dagger}$
+  **Yizhou Dang**, Chu Zhao, Linying Jiang, Lianbo Ma, Guibing Guo$^{\dagger}$ \
+  Journal of Software (**JOS**, a Chinese journal), 2026 \
+  [**Paper**] (In Press)
+  
 
 
 ### In the year of 2025:
 
 - Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation \
-  `SIGIR 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2504.04843) [**Code**](https://github.com/KingGugu/TTA4SR) \
-  **Yizhou Dang**, Yuting Liu, Enneng Yang, Minhan Huang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
+  **Yizhou Dang**, Yuting Liu, Enneng Yang, Minhan Huang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang \
+  International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2025 <font color="red"><b>Oral</b></font> \
+  [**Paper**](https://arxiv.org/abs/2504.04843) [**Code**](https://github.com/KingGugu/TTA4SR)
 
 - Augmenting Sequential Recommendation with Balanced Relevance and Diversity \
-  `AAAI 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2412.08300) [**Code**](https://github.com/KingGugu/BASRec) \
-  **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
+  **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang \
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2025 <font color="red"><b>Oral</b></font> \
+  [**Paper**](https://arxiv.org/abs/2412.08300) [**Code**](https://github.com/KingGugu/BASRec)
 
 - Beyond Single Sequence: User Correlation Guided Cross-Sequence Mixing for Sequential Recommendation \
-  `MIR 2025` (In Press) | [**Paper**] [**Code**](https://github.com/KingGugu/UCMRec) | Machine Intelligence Research \
-  Jiahui Zhang$^{\star}$, **Yizhou Dang$^{\star}$**, Enneng Yang, Jianzhe Zhao, Linying Jiang, Guibing Guo$^{\dagger}$, Xingwei Wang
+  Jiahui Zhang$^{\star}$, **Yizhou Dang$^{\star}$**, Enneng Yang, Jianzhe Zhao, Linying Jiang, Guibing Guo$^{\dagger}$, Xingwei Wang \
+  Machine Intelligence Research (**MIR**), 2025 \
+  [**Paper**] [**Code**](https://github.com/KingGugu/UCMRec) (In Press)
 
 - Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation \
-  `SIGIR 2025` <font color="red">Oral</font> | [**Paper**](https://dl.acm.org/doi/10.1145/3726302.3729944) [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning) \
-  Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$
+  Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$ \
+  International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2025 <font color="red"><b>Oral</b></font> \
+  [**Paper**](https://dl.acm.org/doi/10.1145/3726302.3729944) [**Code**](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning)
 
 - CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation \
-  `AAAI 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2408.10645) [**Code**](https://github.com/VanillaCreamer/CoRA) \
-  Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Yuliang Liang, Qiang Liu$^{\dagger}$, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
+  Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Yuliang Liang, Qiang Liu$^{\dagger}$, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang \
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2025 <font color="red"><b>Oral</b></font> \
+  [**Paper**](https://arxiv.org/abs/2408.10645) [**Code**](https://github.com/VanillaCreamer/CoRA)
 
 - Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation \
-  `AAAI 2025` | [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/33275) [**Code**](https://github.com/VanillaCreamer/MPC) \
-  Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang
+  Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang \
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2025 \
+  [**Paper**](https://ojs.aaai.org/index.php/AAAI/article/view/33275) [**Code**](https://github.com/VanillaCreamer/MPC)
 
 - Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation \
-  `DASFAA 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2403.08246) [**Code**](https://github.com/VanillaCreamer/LSGRec) \
-  Yuting Liu, **Yizhou Dang**, Yuliang Liang, Qiang Liu, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang
+  Yuting Liu, **Yizhou Dang**, Yuliang Liang, Qiang Liu, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang \
+  Database Systems for Advanced Applications (**DASFAA**), 2025 <font color="red"><b>Oral</b></font> \
+  [**Paper**](https://arxiv.org/abs/2403.08246) [**Code**](https://github.com/VanillaCreamer/LSGRec)
 
 - Self-supervised Hierarchical Representation for Medication Recommendation \
-  `DASFAA 2025` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2411.03143) [**Code**](https://github.com/yuliang-liang/HEIR) \
-  Yuliang Liang, Yuting Liu, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Wei Cai, Jianzhe Zhao, Xingwei Wang
+  Yuliang Liang, Yuting Liu, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Wei Cai, Jianzhe Zhao, Xingwei Wang \
+  Database Systems for Advanced Applications (**DASFAA**), 2025 <font color="red"><b>Oral</b></font> \
+  [**Paper**](https://arxiv.org/abs/2411.03143) [**Code**](https://github.com/yuliang-liang/HEIR)
 
 - Harnessing Content and Structure in ID For Multimodal Recommendation \
-  `ICASSP 2025` | [**Paper**](https://arxiv.org/pdf/2311.05956) [**Code**](https://github.com/VanillaCreamer/IDSF) \
-  Yuting Liu$^{\star}$, Enneng Yang$^{\star}$, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang
+  Yuting Liu$^{\star}$, Enneng Yang$^{\star}$, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang \
+  IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2025 \
+  [**Paper**](https://arxiv.org/pdf/2311.05956) [**Code**](https://github.com/VanillaCreamer/IDSF)
 
 
 ### In the year of 2024:
 
 - Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences \
-  `TOIS 2024` | [**Paper**](https://dl.acm.org/doi/10.1145/3706633) [**Code**](https://github.com/KingGugu/GFEraser) | ACM Transactions on Information Systems \
-  **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang
+  **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang \
+  ACM Transactions on Information Systems (**TOIS**), 2024 \
+  [**Paper**](https://dl.acm.org/doi/10.1145/3706633) [**Code**](https://github.com/KingGugu/GFEraser)
 
 - Repeated Padding for Sequential Recommendation \
-  `RecSys 2024` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2403.06372v2) [**Code**](https://github.com/KingGugu/RepPad) \
-  **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$
+  **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$ \
+  ACM Conference on Recommender Systems (**RecSys**), 2024 <font color="red"><b>Oral</b></font> \
+  [**Paper**](https://arxiv.org/abs/2403.06372v2) [**Code**](https://github.com/KingGugu/RepPad)
 
 ### In the year of 2023:
 
 - TiCoSeRec: Augmenting Data to Uniform Sequences by Time Intervals for Effective Recommendation\
-  `TKDE 2023` | [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec) | IEEE Transactions on Knowledge and Data Engineering \
-  **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
+  **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu \
+  IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2023 \
+  [**Paper**](https://ieeexplore.ieee.org/abstract/document/10285049) [**Code**](https://github.com/KingGugu/TiCoSeRec)
 
 - Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation \
-  `AAAI 2023` <font color="red">Oral</font> | [**Paper**](https://arxiv.org/abs/2212.08262) [**Code**](https://github.com/KingGugu/TiCoSeRec) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740) \
-  **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu
+  **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu \
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2023 <font color="red"><b>Oral</b></font> \
+  [**Paper**](https://arxiv.org/abs/2212.08262) [**Code**](https://github.com/KingGugu/TiCoSeRec) [**Video**](https://doi.org/10.48448/wmh8-p908) [**中文解读**](https://zhuanlan.zhihu.com/p/592832740)
 
 
 # 📖 Educations
