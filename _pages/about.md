@@ -32,6 +32,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li><em>2026.03</em>: 🎉 Two papers are accepted by SIGIR 2026 </li>
 <li><em>2026.03</em>: 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal) </li>
 <li><em>2026.02</em>: 🎉 One paper is accepted by TPAMI </li>
 <li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026 </li>
@@ -69,9 +70,14 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 ### In the year of 2026:
 
 - Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation \
-  **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang$^{\dagger}$, and Guibing Guo$^{\dagger}$ \
+  **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang$^{\dagger}$, Guibing Guo$^{\dagger}$ \
   IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color="red"><b>TPAMI</b></font>), 2026 \
   [**Paper**](https://ieeexplore.ieee.org/document/11391565/) [**Code**](https://github.com/KingGugu/TTA4SR)
+
+- Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models \
+  **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang, Zhu Sun \
+  International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026 \
+  [**Paper**] [**Code**] (Just Accepted)
 
 - Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation \
   **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$ \
@@ -82,6 +88,11 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   **Yizhou Dang**, Chu Zhao, Linying Jiang, Lianbo Ma, Guibing Guo$^{\dagger}$ \
   Journal of Software (**JOS**, a Chinese journal), 2026 \
   [**Paper**] (In Press)
+
+- Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation \
+  Zhifu Wei, **Yizhou Dang**, Guibing Guo, Chuang Zhao, Zhu Sun \
+  International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026 \
+  [**Paper**] [**Code**] (Just Accepted)
   
 
 
