@@ -75,7 +75,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   [[**Code**](https://github.com/KingGugu/TTA4SR)]
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models]() \
-  **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang, Zhu Sun \
+  **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$, Zhu Sun \
   International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026 \
   [**Code**] (Just Accepted)
 
@@ -90,7 +90,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   (In Press)
 
 - [Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation]() \
-  Zhifu Wei, **Yizhou Dang**, Guibing Guo, Chuang Zhao, Zhu Sun \
+  Zhifu Wei, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Chuang Zhao, Zhu Sun$^{\dagger}$ \
   International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026 \
   [**Code**] (Just Accepted)
   
@@ -147,7 +147,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 ### In the year of 2024:
 
 - [Efficient and Adaptive Recommendation Unlearning: A Guided Filtering Framework to Erase Outdated Preferences](https://dl.acm.org/doi/10.1145/3706633) \
-  **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Jianzhe Zhao, Xingwei Wang \
+  **Yizhou Dang**$^{\dagger}$, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Jianzhe Zhao, Xingwei Wang \
   ACM Transactions on Information Systems (**TOIS**), 2024 \
   [[**Code**](https://github.com/KingGugu/GFEraser)]
 
