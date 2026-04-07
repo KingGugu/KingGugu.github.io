@@ -89,10 +89,10 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   Journal of Software (**JOS**, a Chinese journal), 2026 \
   (In Press)
 
-- [Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation]() \
+- [Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation](https://arxiv.org/pdf/2604.03688) \
   Zhifu Wei, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Chuang Zhao, Zhu Sun$^{\dagger}$ \
   International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026 \
-  [**Code**] (Just Accepted)
+  [[**Code**](https://github.com/ZhifuWei/FAERec)]
   
 
 
