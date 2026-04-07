@@ -77,7 +77,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models]() \
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$, Zhu Sun \
   International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026 \
-  [**Code**] (Just Accepted)
+  [[**Code**](https://github.com/KingGugu/SSS4SR)]
 
 - [Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation](https://arxiv.org/abs/2601.10933) \
   **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$ \
