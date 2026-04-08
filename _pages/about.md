@@ -74,7 +74,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color="red"><b>TPAMI</b></font>), 2026 \
   [[**Code**](https://github.com/KingGugu/TTA4SR)]
 
-- [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models]() \
+- [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309) \
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$, Zhu Sun \
   International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026 \
   [[**Code**](https://github.com/KingGugu/SSS4SR)]
@@ -108,10 +108,10 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
   AAAI Conference on Artificial Intelligence (**AAAI**, <font color="red"><b>Oral</b></font>), 2025  \
   [[**Code**](https://github.com/KingGugu/BASRec)]
 
-- [Beyond Single Sequence: User Correlation Guided Cross-Sequence Mixing for Sequential Recommendation]() \
+- [Beyond Single Sequence: User Correlation Guided Cross-Sequence Mixing for Sequential Recommendation](https://link.springer.com/article/10.1007/s11633-025-1573-1) \
   Jiahui Zhang$^{\star}$, **Yizhou Dang$^{\star}$**, Enneng Yang, Jianzhe Zhao, Linying Jiang, Guibing Guo$^{\dagger}$, Xingwei Wang \
   Machine Intelligence Research (**MIR**), 2025 \
-  [[**Code**](https://github.com/KingGugu/UCMRec)] (In Press)
+  [[**Code**](https://github.com/KingGugu/UCMRec)]
 
 - [Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation](https://dl.acm.org/doi/10.1145/3726302.3729944) \
   Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$ \
