@@ -178,6 +178,7 @@ $^{\dagger}$ indicates corresponding author, $^{\star}$ indicates equal contribu
 
 # 🏆 Honors and Awards
 
+- *2026* SIGIR Student Travel Grant
 - *2025* Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)
 - *2023* National Scholarship for Graduate Student (Top 1%)
 - *2022,2023* First-Class Scholarship from NEU
