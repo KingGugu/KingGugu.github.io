@@ -32,6 +32,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li><em>2026.04</em>: 🏅 I'm honored to receive the SIGIR 2026 Student Travel Grant</li>
 <li><em>2026.04</em>: 🎉 Two papers are accepted by SIGIR 2026 </li>
 <li><em>2026.03</em>: 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal) </li>
 <li><em>2026.02</em>: 🎉 One paper is accepted by TPAMI </li>
