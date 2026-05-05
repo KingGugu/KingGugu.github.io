@@ -72,7 +72,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation](https://ieeexplore.ieee.org/document/11391565/)  
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang$^{\dagger}$, Guibing Guo$^{\dagger}$  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color="red">**TPAMI**</font>), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$, Zhu Sun  
@@ -94,11 +94,11 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation](https://arxiv.org/abs/2504.04843)  
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Minhan Huang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang  
-  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**, <font color="red">**Oral**</font>), 2025* · [Code](https://github.com/KingGugu/TTA4SR)
+  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**, **<font color="red">Oral</font>**), 2025* · [Code](https://github.com/KingGugu/TTA4SR)
 
 - [Augmenting Sequential Recommendation with Balanced Relevance and Diversity](https://arxiv.org/abs/2412.08300)  
   **Yizhou Dang**, Jiahui Zhang, Yuting Liu, Enneng Yang, Yuliang Liang, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang  
-  *AAAI Conference on Artificial Intelligence (**AAAI**, <font color="red">**Oral**</font>), 2025* · [Code](https://github.com/KingGugu/BASRec)
+  *AAAI Conference on Artificial Intelligence (**AAAI**, **<font color="red">Oral</font>**), 2025* · [Code](https://github.com/KingGugu/BASRec)
 
 - [Beyond Single Sequence: User Correlation Guided Cross-Sequence Mixing for Sequential Recommendation](https://link.springer.com/article/10.1007/s11633-025-1573-1)  
   Jiahui Zhang$^{\star}$, **Yizhou Dang$^{\star}$**, Enneng Yang, Jianzhe Zhao, Linying Jiang, Guibing Guo$^{\dagger}$, Xingwei Wang  
@@ -106,11 +106,11 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation](https://dl.acm.org/doi/10.1145/3726302.3729944)  
   Fei Li, Qingyun Gao, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang$^{\dagger}$  
-  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**, <font color="red">**Oral**</font>), 2025* · [Code](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning)
+  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**, **<font color="red">Oral</font>**), 2025* · [Code](https://github.com/muzi1998/Denoising-Multi-Interest-Aware-Logical-Reasoning)
 
 - [CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation](https://arxiv.org/abs/2408.10645)  
   Yuting Liu, Jinghao Zhang, **Yizhou Dang**, Yuliang Liang, Qiang Liu$^{\dagger}$, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang  
-  *AAAI Conference on Artificial Intelligence (**AAAI**, <font color="red">**Oral**</font>), 2025* · [Code](https://github.com/VanillaCreamer/CoRA)
+  *AAAI Conference on Artificial Intelligence (**AAAI**, **<font color="red">Oral</font>**), 2025* · [Code](https://github.com/VanillaCreamer/CoRA)
 
 - [Multiple Purchase Chains with Negative Transfer Elimination for Multi-Behavior Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33275)  
   Shuwei Gong, Yuting Liu, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao$^{\dagger}$, Xingwei Wang  
@@ -118,11 +118,11 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Towards Unified Modeling for Positive and Negative Preferences in Sign-aware Recommendation](https://arxiv.org/abs/2403.08246)  
   Yuting Liu, **Yizhou Dang**, Yuliang Liang, Qiang Liu, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Xingwei Wang  
-  *Database Systems for Advanced Applications (**DASFAA**, <font color="red">**Oral**</font>), 2025* · [Code](https://github.com/VanillaCreamer/LSGRec)
+  *Database Systems for Advanced Applications (**DASFAA**, **<font color="red">Oral</font>**), 2025* · [Code](https://github.com/VanillaCreamer/LSGRec)
 
 - [Self-supervised Hierarchical Representation for Medication Recommendation](https://arxiv.org/abs/2411.03143)  
   Yuliang Liang, Yuting Liu, **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Wei Cai, Jianzhe Zhao, Xingwei Wang  
-  *Database Systems for Advanced Applications (**DASFAA**, <font color="red">**Oral**</font>), 2025* · [Code](https://github.com/yuliang-liang/HEIR)
+  *Database Systems for Advanced Applications (**DASFAA**, **<font color="red">Oral</font>**), 2025* · [Code](https://github.com/yuliang-liang/HEIR)
 
 - [Harnessing Content and Structure in ID For Multimodal Recommendation](https://arxiv.org/pdf/2311.05956)  
   Yuting Liu$^{\star}$, Enneng Yang$^{\star}$, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Qiang Liu, Yuliang Liang, Linying Jiang, Xingwei Wang  
@@ -136,7 +136,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Repeated Padding for Sequential Recommendation](https://arxiv.org/abs/2403.06372v2)  
   **Yizhou Dang**, Yuting Liu, Enneng Yang, Guibing Guo, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao$^{\dagger}$  
-  *ACM Conference on Recommender Systems (**RecSys**, <font color="red">**Oral**</font>), 2024* · [Code](https://github.com/KingGugu/RepPad)
+  *ACM Conference on Recommender Systems (**RecSys**, **<font color="red">Oral</font>**), 2024* · [Code](https://github.com/KingGugu/RepPad)
 
 ### 2023
 
@@ -146,7 +146,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation](https://arxiv.org/abs/2212.08262)  
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu  
-  *AAAI Conference on Artificial Intelligence (**AAAI**, <font color="red">**Oral**</font>), 2023* · [Code](https://github.com/KingGugu/TiCoSeRec) · [Video](https://doi.org/10.48448/wmh8-p908) · [中文解读](https://zhuanlan.zhihu.com/p/592832740)
+  *AAAI Conference on Artificial Intelligence (**AAAI**, **<font color="red">Oral</font>**), 2023* · [Code](https://github.com/KingGugu/TiCoSeRec) · [Video](https://doi.org/10.48448/wmh8-p908) · [中文解读](https://zhuanlan.zhihu.com/p/592832740)
 
 
 # 📖 Educations
@@ -157,15 +157,15 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 # 🏆 Honors and Awards
 
-- *2026*  SIGIR Student Travel Grant
-- *2025*  Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)
-- *2023*  National Scholarship for Graduate Student (Top 1%)
-- *2022,2023*  First-Class Scholarship from NEU
-- *2022*  AAAI Student Scholarship
-- *2022*  Baidu App User Experience Analysis Competition, First Prize
-- *2022*  Ministry of Education - Huawei Intelligent Foundation Future Stars
-- *2021,2022*  Huawei Intelligent Foundation Scholarship
-- *2020*  Outstanding Student of NEU
+- *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
+- *2025*&nbsp;&nbsp;Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)
+- *2023*&nbsp;&nbsp;National Scholarship for Graduate Student (Top 1%)
+- *2022,2023*&nbsp;&nbsp;First-Class Scholarship from NEU
+- *2022*&nbsp;&nbsp;AAAI Student Scholarship
+- *2022*&nbsp;&nbsp;Baidu App User Experience Analysis Competition, First Prize
+- *2022*&nbsp;&nbsp;Ministry of Education - Huawei Intelligent Foundation Future Stars
+- *2021,2022*&nbsp;&nbsp;Huawei Intelligent Foundation Scholarship
+- *2020*&nbsp;&nbsp;Outstanding Student of NEU
 
 
 # 💻 Service
