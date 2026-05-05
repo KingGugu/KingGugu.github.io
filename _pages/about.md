@@ -64,7 +64,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 - [Data Augmentation for Sequential Recommendation: A Survey](https://arxiv.org/abs/2409.13545)  
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao  
   *arXiv, 2024* · [Code](https://github.com/KingGugu/DA-CL-4Rec)  
-  Repository collecting research on data augmentation and contrastive learning for recommendation (700+ papers).
+  Repository collecting research on data augmentation and contrastive learning for recommendation (<font color="red">700+ papers</font>).
 
 ## Research Papers
 
@@ -157,15 +157,15 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 # 🏆 Honors and Awards
 
-- *2026* SIGIR Student Travel Grant
-- *2025* Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)
-- *2023* National Scholarship for Graduate Student (Top 1%)
-- *2022,2023* First-Class Scholarship from NEU
-- *2022* AAAI Student Scholarship
-- *2022* Baidu App User Experience Analysis Competition, First Prize
-- *2022* Ministry of Education - Huawei Intelligent Foundation Future Stars
-- *2021,2022* Huawei Intelligent Foundation Scholarship
-- *2020* Outstanding Student of NEU
+- *2026*  SIGIR Student Travel Grant
+- *2025*  Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)
+- *2023*  National Scholarship for Graduate Student (Top 1%)
+- *2022,2023*  First-Class Scholarship from NEU
+- *2022*  AAAI Student Scholarship
+- *2022*  Baidu App User Experience Analysis Competition, First Prize
+- *2022*  Ministry of Education - Huawei Intelligent Foundation Future Stars
+- *2021,2022*  Huawei Intelligent Foundation Scholarship
+- *2020*  Outstanding Student of NEU
 
 
 # 💻 Service
