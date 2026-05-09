@@ -32,6 +32,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 🔥 News
 
 <ul class="projects-box" id="projects-box">
+<li><em>2026.05</em>: 🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE</li>
 <li><em>2026.04</em>: 🏅 I'm honored to receive the SIGIR 2026 Student Travel Grant</li>
 <li><em>2026.04</em>: 🎉 Two papers are accepted by SIGIR 2026 </li>
 <li><em>2026.03</em>: 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal) </li>
@@ -61,9 +62,9 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 ## Surveys
 
-- [Data Augmentation for Sequential Recommendation: A Survey](https://arxiv.org/abs/2409.13545)  
+- [Data Augmentation for Sequential Recommendation: A Survey](https://arxiv.org/abs/2409.13545)
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao  
-  *arXiv, 2024* · [Code](https://github.com/KingGugu/DA-CL-4Rec)  
+  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026* · [Code](https://github.com/KingGugu/DA-CL-4Rec)
   Repository collecting research on data augmentation and contrastive learning for recommendation (<font color="red">700+ papers</font>).
 
 ## Research Papers
