@@ -22,14 +22,14 @@ I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io
 Before that, I earned my B.E. degree in 2023 at the same institute.
 I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
 
-My research interests focus on AI for science (enzyme design) and recommender systems (sequential recommendation and LLM-based recommendation).
-
-I am particularly interested in data-centric (data augmentation, data synthesis, etc) methods.
+My research interests focus on AI for science (enzyme design) and recommender systems (sequential recommendation and LLM-based recommendation). I am particularly interested in data-centric methods, such as data augmentation and data synthesis.
 
 Please feel free to contact me by email if you have any questions or are seeking collaborations.
 
+🔥 <font color="red">Our team is seeking self-motivated students (including remote internships, undergraduates, graduate students, and other candidates) to join research on recommender systems, LLMs, and AI for science, with the goal of publishing high-quality academic papers. If interested, please email me your resume.</font>
 
-# 🔥 News
+
+# 👏 News
 
 <ul class="projects-box" id="projects-box">
 <li><em>2026.05</em>: 🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE</li>
@@ -56,7 +56,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 </ul>
 
 
-# Publications
+# 📝 Publications
 
 $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribution.
 
