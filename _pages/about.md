@@ -64,8 +64,8 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Data Augmentation for Sequential Recommendation: A Survey](https://arxiv.org/abs/2409.13545)  
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao  
-  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026* · [Code](https://github.com/KingGugu/DA-CL-4Rec)
-  Repository collecting research on data augmentation and contrastive learning for recommendation (<font color="red">700+ papers</font>).
+  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026* · [Code](https://github.com/KingGugu/DA-CL-4Rec)  
+  The code repository collects research on data augmentation and contrastive learning for recommendation (<font color="red">700+ papers</font>).
 
 ## Research Papers
 
