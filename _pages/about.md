@@ -32,26 +32,27 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 👏 News
 
 <ul class="projects-box" id="projects-box">
-<li><em>2026.05</em>: 🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE</li>
-<li><em>2026.04</em>: 🏅 I'm honored to receive the SIGIR 2026 Student Travel Grant</li>
-<li><em>2026.04</em>: 🎉 Two papers are accepted by SIGIR 2026 </li>
-<li><em>2026.03</em>: 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal) </li>
-<li><em>2026.02</em>: 🎉 One paper is accepted by TPAMI </li>
-<li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026 </li>
-<li><em>2025.12</em>: 🏅 I'm honored to Granted by the Young Talent Support Program for Doctoral Students, CAST</li>
-<li><em>2025.06</em>: 🎉 One paper is accepted by MIR</li>
-<li><em>2025.04</em>: 🎉 Two papers are accepted by SIGIR 2025</li>
-<li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025</li>
-<li><em>2024.12</em>: 🎉 One paper is accepted by ICASSP 2025</li>
-<li><em>2024.12</em>: 🎉 Three papers are accepted by AAAI 2025</li>
-<li><em>2024.11</em>: 🎉 One paper is accepted by TOIS</li>
-<li><em>2024.09</em>: 🔊 We released a survey on data augmentation for sequential recommendation</li>
+<li><em>2026.05</em>: 🎉 Our paper on protein representation learning has been accepted by KDD 2026.</li>
+<li><em>2026.05</em>: 🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE.</li>
+<li><em>2026.04</em>: 🏅 I'm honored to receive the SIGIR 2026 Student Travel Grant.</li>
+<li><em>2026.04</em>: 🎉 Two papers are accepted by SIGIR 2026.</li>
+<li><em>2026.03</em>: 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal).</li>
+<li><em>2026.02</em>: 🎉 One paper is accepted by TPAMI.</li>
+<li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026.</li>
+<li><em>2025.12</em>: 🏅 I'm honored to Granted by the Young Talent Support Program for Doctoral Students, CAST.</li>
+<li><em>2025.06</em>: 🎉 One paper is accepted by MIR.</li>
+<li><em>2025.04</em>: 🎉 Two papers are accepted by SIGIR 2025.</li>
+<li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025.</li>
+<li><em>2024.12</em>: 🎉 One paper is accepted by ICASSP 2025.</li>
+<li><em>2024.12</em>: 🎉 Three papers are accepted by AAAI 2025.</li>
+<li><em>2024.11</em>: 🎉 One paper is accepted by TOIS.</li>
+<li><em>2024.09</em>: 🔊 We released a survey on data augmentation for sequential recommendation.</li>
 <li><em>2024.07</em>: 🎉 One paper is accepted by RecSys 2024</li>
-<li><em>2023.10</em>: 🏅 I'm honored to receive the National Scholarship for graduate student (Top 1%)</li>
-<li><em>2023.10</em>: 🎉 One paper is accepted by TKDE</li>
+<li><em>2023.10</em>: 🏅 I'm honored to receive the National Scholarship for graduate student (Top 1%).</li>
+<li><em>2023.10</em>: 🎉 One paper is accepted by TKDE.</li>
 <li><em>2023.06</em>: 🎓 I graduated from NEU!</li>
-<li><em>2022.12</em>: 🏅 I'm honored to receive the AAAI 2023 Student Scholarship</li>
-<li><em>2022.11</em>: 🎉 One paper is accepted by AAAI 2023</li>
+<li><em>2022.12</em>: 🏅 I'm honored to receive the AAAI 2023 Student Scholarship.</li>
+<li><em>2022.11</em>: 🎉 One paper is accepted by AAAI 2023.</li>
 <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
 </ul>
 
@@ -74,6 +75,10 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 - [Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation](https://ieeexplore.ieee.org/document/11391565)  
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang$^{\dagger}$, Guibing Guo$^{\dagger}$  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
+
+- [Enhancing Protein Representation Learning via Manifold Restore Mixing]  
+  **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang, Zhu Sun 
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026, In Press*
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$, Zhu Sun  
