@@ -76,8 +76,8 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang$^{\dagger}$, Guibing Guo$^{\dagger}$  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
 
-- [Enhancing Protein Representation Learning via Manifold Restore Mixing]  
-  **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang, Zhu Sun 
+- Enhancing Protein Representation Learning via Manifold Restore Mixing  
+  **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang, Zhu Sun  
   *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026, In Press*
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
