@@ -99,7 +99,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - DeCO: A Training-Free Framework for In-Context Knowledge Editing via Incremental Reasoning  
   Haoyu Xu, Yuliang Liang, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Linying Jiang, Xingwei Wang  
-  *Knowledge-Based Systems, 2026, In Press*
+  *Knowledge-Based Systems (**KBS**), 2026, In Press*
 
 ### 2025
 
