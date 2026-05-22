@@ -78,7 +78,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - Enhancing Protein Representation Learning via Manifold Restore Mixing  
   **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang, Zhu Sun  
-  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026, In Press*
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026, In Press* · [Code](https://github.com/KingGugu/MRM)
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$, Zhu Sun  
