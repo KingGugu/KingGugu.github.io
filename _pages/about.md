@@ -32,6 +32,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 👏 News
 
 <ul class="projects-box" id="projects-box">
+<li><em>2026.05</em>: 🎉 Our paper on knowledge editing has been accepted by KBS.</li>
 <li><em>2026.05</em>: 🎉 Our paper on protein representation learning has been accepted by KDD 2026.</li>
 <li><em>2026.05</em>: 🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE.</li>
 <li><em>2026.04</em>: 🏅 I'm honored to receive the SIGIR 2026 Student Travel Grant.</li>
@@ -95,6 +96,10 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 - [Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation](https://arxiv.org/pdf/2604.03688)  
   Zhifu Wei, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Chuang Zhao, Zhu Sun$^{\dagger}$  
   *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026* · [Code](https://github.com/ZhifuWei/FAERec)
+
+- DeCO: A Training-Free Framework for In-Context Knowledge Editing via Incremental Reasoning  
+  Haoyu Xu, Yuliang Liang, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Linying Jiang, Xingwei Wang  
+  *Knowledge-Based Systems, 2026, In Press*
 
 ### 2025
 
