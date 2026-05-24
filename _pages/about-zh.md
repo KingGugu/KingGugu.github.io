@@ -1,12 +1,12 @@
 ---
-permalink: /
+permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
-lang: en
-redirect_from: 
-  - /about/
-  - /about.html
+lang: zh
+redirect_from:
+  - /zh/about/
+  - /zh/about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,59 +18,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a third-year Ph.D. student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. 
-I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). 
-Before that, I earned my B.E. degree in 2023 at the same institute.
-I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
+你好！我是党翌洲，目前是沈阳[东北大学](http://www.neu.edu.cn/)[软件学院](http://sc.neu.edu.cn/)博士三年级研究生。  
+我非常荣幸师从[郭贵冰教授](https://guoguibing.github.io/cn/)。  
+在此之前，我于 2023 年在同一学院获得工学学士学位。  
+目前我也与[杨恩能博士](https://ennengyang.github.io/)和[博士生刘禹廷](https://vanillacreamer.github.io/)保持紧密合作。
 
-My research interests focus on AI for science (enzyme design) and recommender systems (sequential recommendation and LLM-based recommendation). I am particularly interested in data-centric methods, such as data augmentation and data synthesis.
+我的研究兴趣主要集中在 AI for Science（特别是酶设计）与推荐系统（特别是序列推荐和基于大语言模型的推荐）。我尤其关注以数据为中心的方法，例如数据增强和数据合成。
 
-Please feel free to contact me by email if you have any questions or are seeking collaborations.
+如果你对我的工作感兴趣，或希望交流合作，欢迎通过邮件与我联系。
 
-🔥 <font color="red">Our team is seeking self-motivated students (including remote internships, undergraduates, graduate students, and other candidates) to join research on recommender systems, LLMs, and AI for science, with the goal of publishing high-quality academic papers. If interested, please email me your resume.</font>
+🔥 <font color="red">我们团队长期招收对推荐系统、大语言模型和 AI for Science 感兴趣、且有志于发表高水平学术论文的同学，包括远程实习生、本科生、研究生及其他合适申请者。如有兴趣，欢迎将简历发送至我的邮箱。</font>
 
 
-# 👏 News
+# 👏 新闻
 
 <ul class="projects-box" id="projects-box">
-<li><em>2026.05</em>: 🎉 Our paper on knowledge editing has been accepted by KBS.</li>
-<li><em>2026.05</em>: 🎉 Our paper on protein representation learning has been accepted by KDD 2026.</li>
-<li><em>2026.05</em>: 🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE.</li>
-<li><em>2026.04</em>: 🏅 I'm honored to receive the SIGIR 2026 Student Travel Grant.</li>
-<li><em>2026.04</em>: 🎉 Two papers are accepted by SIGIR 2026.</li>
-<li><em>2026.03</em>: 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal).</li>
-<li><em>2026.02</em>: 🎉 One paper is accepted by TPAMI.</li>
-<li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026.</li>
-<li><em>2025.12</em>: 🏅 I'm honored to Granted by the Young Talent Support Program for Doctoral Students, CAST.</li>
-<li><em>2025.06</em>: 🎉 One paper is accepted by MIR.</li>
-<li><em>2025.04</em>: 🎉 Two papers are accepted by SIGIR 2025.</li>
-<li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025.</li>
-<li><em>2024.12</em>: 🎉 One paper is accepted by ICASSP 2025.</li>
-<li><em>2024.12</em>: 🎉 Three papers are accepted by AAAI 2025.</li>
-<li><em>2024.11</em>: 🎉 One paper is accepted by TOIS.</li>
-<li><em>2024.09</em>: 🔊 We released a survey on data augmentation for sequential recommendation.</li>
-<li><em>2024.07</em>: 🎉 One paper is accepted by RecSys 2024</li>
-<li><em>2023.10</em>: 🏅 I'm honored to receive the National Scholarship for graduate student (Top 1%).</li>
-<li><em>2023.10</em>: 🎉 One paper is accepted by TKDE.</li>
-<li><em>2023.06</em>: 🎓 I graduated from NEU!</li>
-<li><em>2022.12</em>: 🏅 I'm honored to receive the AAAI 2023 Student Scholarship.</li>
-<li><em>2022.11</em>: 🎉 One paper is accepted by AAAI 2023.</li>
-<p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
+<li><em>2026.05</em>: 🎉 我们关于知识编辑的论文被 KBS 接收。</li>
+<li><em>2026.05</em>: 🎉 我们关于蛋白质表征学习的论文被 KDD 2026 接收。</li>
+<li><em>2026.05</em>: 🎉 我们关于序列推荐数据增强的综述被 TKDE 接收。</li>
+<li><em>2026.04</em>: 🏅 我很荣幸获得 SIGIR 2026 Student Travel Grant。</li>
+<li><em>2026.04</em>: 🎉 两篇论文被 SIGIR 2026 接收。</li>
+<li><em>2026.03</em>: 🎉 一篇论文被《软件学报》（JOS）接收。</li>
+<li><em>2026.02</em>: 🎉 一篇论文被 TPAMI 接收。</li>
+<li><em>2026.01</em>: 🎉 一篇论文被 WWW 2026 接收。</li>
+<li><em>2025.12</em>: 🏅 我很荣幸入选中国科协青年科技人才培育工程博士生专项计划。</li>
+<li><em>2025.06</em>: 🎉 一篇论文被 MIR 接收。</li>
+<li><em>2025.04</em>: 🎉 两篇论文被 SIGIR 2025 接收。</li>
+<li><em>2025.01</em>: 🎉 两篇论文被 DASFAA 2025 接收。</li>
+<li><em>2024.12</em>: 🎉 一篇论文被 ICASSP 2025 接收。</li>
+<li><em>2024.12</em>: 🎉 三篇论文被 AAAI 2025 接收。</li>
+<li><em>2024.11</em>: 🎉 一篇论文被 TOIS 接收。</li>
+<li><em>2024.09</em>: 🔊 我们发布了关于序列推荐数据增强的综述。</li>
+<li><em>2024.07</em>: 🎉 一篇论文被 RecSys 2024 接收。</li>
+<li><em>2023.10</em>: 🏅 我很荣幸获得研究生国家奖学金（Top 1%）。</li>
+<li><em>2023.10</em>: 🎉 一篇论文被 TKDE 接收。</li>
+<li><em>2023.06</em>: 🎓 我从东北大学本科毕业！</li>
+<li><em>2022.12</em>: 🏅 我很荣幸获得 AAAI 2023 Student Scholarship。</li>
+<li><em>2022.11</em>: 🎉 一篇论文被 AAAI 2023 接收。</li>
+<p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">更多</span></p>
 </ul>
 
 
-# 📝 Publications
+# 📝 论文发表
 
-$^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribution.
+$^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 
-## Surveys
+## 综述
 
 - [Data Augmentation for Sequential Recommendation: A Survey](https://ieeexplore.ieee.org/document/11517208)  
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Jianzhe Zhao  
   *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026* · [Code](https://github.com/KingGugu/DA-CL-4Rec)  
-  The code repository collects research on data augmentation and contrastive learning for recommendation (<font color="red">700+ papers</font>).
+  该代码仓库系统整理了推荐系统中的数据增强与对比学习研究（<font color="red">700+ papers</font>）。
 
-## Research Papers
+## 研究论文
 
 ### 2026
 
@@ -161,47 +161,36 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
   *AAAI Conference on Artificial Intelligence (**AAAI**, **<font color="red">Oral</font>**), 2023* · [Code](https://github.com/KingGugu/TiCoSeRec) · [Video](https://doi.org/10.48448/wmh8-p908) · [中文解读](https://zhuanlan.zhihu.com/p/592832740)
 
 
-# 📖 Educations
+# 📖 教育经历
 
-- *2023.09 - 2028.06 (Expected)*, Ph.D. in Software Engineering, Northeastern University, Shenyang, China.
-- *2019.09 - 2023.06*, Bachelor in Software Engineering, Northeastern University, Shenyang, China.
+- *2023.09 - 2028.06（预计）*，东北大学软件工程博士，沈阳，中国。
+- *2019.09 - 2023.06*，东北大学软件工程学士，沈阳，中国。
 
 
-# 🏆 Honors and Awards
+# 🏆 荣誉奖励
 
 - *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
-- *2025*&nbsp;&nbsp;Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)
-- *2023*&nbsp;&nbsp;National Scholarship for Graduate Student (Top 1%)
-- *2022,2023*&nbsp;&nbsp;First-Class Scholarship from NEU
+- *2025*&nbsp;&nbsp;中国科协青年科技人才培育工程博士生专项计划
+- *2023*&nbsp;&nbsp;研究生国家奖学金（Top 1%）
+- *2022,2023*&nbsp;&nbsp;东北大学一等奖学金
 - *2022*&nbsp;&nbsp;AAAI Student Scholarship
-- *2022*&nbsp;&nbsp;Baidu App User Experience Analysis Competition, First Prize
-- *2022*&nbsp;&nbsp;Ministry of Education - Huawei Intelligent Foundation Future Stars
-- *2021,2022*&nbsp;&nbsp;Huawei Intelligent Foundation Scholarship
-- *2020*&nbsp;&nbsp;Outstanding Student of NEU
+- *2022*&nbsp;&nbsp;百度用户体验分析竞赛一等奖
+- *2022*&nbsp;&nbsp;教育部-华为智能基座未来之星
+- *2021,2022*&nbsp;&nbsp;华为智能基座奖学金
+- *2020*&nbsp;&nbsp;东北大学优秀学生
 
 
-# 💻 Service
+# 💻 学术服务
 
-- Conference Reviewers: 
+- 会议审稿人:
   - SIGIR 2026
   - AAAI 2026
   - IJCAI 2025, 2026
   - KDD 2024, 2026
-- Journal Reviewers:
+- 期刊审稿人:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - ACM Transactions on Information Systems (TOIS)
   - ACM Transactions on Recommender Systems (TORS)
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=343739&w=300&t=tt&d=eimuBYNRaOftpcjrQ9vfEm6Gggdhdu4Hf6ZB0_3CvPA&co=ffffff&cmo=009fff&cmn=18e0ff&ct=00196b'></script>
-
-
-[comment]: <> (# 💬 Invited Talks)
-
-[comment]: <> (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-[comment]: <> (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
-
-[comment]: <> (# 💻 Internships)
-
-[comment]: <> (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)

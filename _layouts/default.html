@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="{{ page.lang | default: 'en' }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -58,19 +58,29 @@ layout: compress
     {% include scripts.html %}
 
           <script>
+          const currentLang = document.documentElement.lang || 'en';
+          const moreLabel = currentLang === 'zh' ? '更多' : 'More';
+          const lessLabel = currentLang === 'zh' ? '收起' : 'Less';
+          const projectsShow = document.querySelector('#projects-show');
+          const projectsBox = document.querySelector('#projects-box');
+          const projectsShowText = document.querySelector('#projects-show-text');
           let show = false;
-          document.querySelector('#projects-show').onclick = function() {
-            if (!show) {
-              document.querySelector('#projects-box').style.height = 'auto';
-              document.querySelector('#projects-box').style.paddingBottom = '20px';
-              document.querySelector('#projects-show-text').innerHTML = 'Less';
-              show = true;
-            } else {
-              show = false;
-              document.querySelector('#projects-box').style.height = '180px';
-              document.querySelector('#projects-box').style.paddingBottom = '0px';
-              document.querySelector('#projects-show-text').innerHTML = 'More';
-            }
+
+          if (projectsShow && projectsBox && projectsShowText) {
+            projectsShowText.innerHTML = moreLabel;
+            projectsShow.onclick = function() {
+              if (!show) {
+                projectsBox.style.height = 'auto';
+                projectsBox.style.paddingBottom = '20px';
+                projectsShowText.innerHTML = lessLabel;
+                show = true;
+              } else {
+                show = false;
+                projectsBox.style.height = '180px';
+                projectsBox.style.paddingBottom = '0px';
+                projectsShowText.innerHTML = moreLabel;
+              }
+            };
           }
         </script>
   </body>
