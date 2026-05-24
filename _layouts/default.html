@@ -65,8 +65,63 @@ layout: compress
             } catch (e) {}
           }
 
-          const LANG_FADE_MS = 360;
+          const LANG_SWITCH_OUT_MS = 180;
+          const LANG_SWITCH_IN_MS = 420;
           let isSwitchingLanguage = false;
+
+          function runFallbackLanguageTransition(nextLang) {
+            document.body.classList.add('lang-transitioning', 'lang-switching');
+
+            window.setTimeout(function() {
+              setSiteLanguage(nextLang);
+
+              window.requestAnimationFrame(function() {
+                window.requestAnimationFrame(function() {
+                  document.body.classList.remove('lang-switching');
+
+                  window.setTimeout(function() {
+                    document.body.classList.remove('lang-transitioning');
+                    isSwitchingLanguage = false;
+                  }, LANG_SWITCH_IN_MS);
+                });
+              });
+            }, LANG_SWITCH_OUT_MS);
+          }
+
+          function toggleSiteLanguage() {
+            if (isSwitchingLanguage) {
+              return;
+            }
+
+            const nextLang = document.documentElement.lang === 'zh' ? 'en' : 'zh';
+            const prefersReducedMotion = window.matchMedia &&
+              window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+            isSwitchingLanguage = true;
+
+            if (prefersReducedMotion) {
+              setSiteLanguage(nextLang);
+              isSwitchingLanguage = false;
+              return;
+            }
+
+            if (document.startViewTransition) {
+              document.body.classList.add('lang-transitioning');
+
+              const transition = document.startViewTransition(function() {
+                setSiteLanguage(nextLang);
+              });
+
+              transition.finished.finally(function() {
+                document.body.classList.remove('lang-transitioning');
+                isSwitchingLanguage = false;
+              });
+
+              return;
+            }
+
+            runFallbackLanguageTransition(nextLang);
+          }
 
           document.querySelectorAll('.projects-container').forEach(function(container) {
             const box = container.querySelector('.projects-box');
@@ -99,26 +154,7 @@ layout: compress
           if (langToggle) {
             langToggle.onclick = function(event) {
               event.preventDefault();
-              if (isSwitchingLanguage) {
-                return;
-              }
-
-              isSwitchingLanguage = true;
-              document.body.classList.add('lang-switching');
-
-              window.setTimeout(function() {
-                setSiteLanguage(document.documentElement.lang === 'zh' ? 'en' : 'zh');
-
-                window.requestAnimationFrame(function() {
-                  window.requestAnimationFrame(function() {
-                    document.body.classList.remove('lang-switching');
-
-                    window.setTimeout(function() {
-                      isSwitchingLanguage = false;
-                    }, LANG_FADE_MS);
-                  });
-                });
-              }, LANG_FADE_MS);
+              toggleSiteLanguage();
             };
           }
         </script>

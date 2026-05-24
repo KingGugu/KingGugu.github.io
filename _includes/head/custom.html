@@ -101,6 +101,8 @@
 
   .masthead__menu-item--lang a {
     display: inline-block;
+    position: relative;
+    overflow: hidden;
     border: 1px solid #d8e0ea;
     border-radius: 999px;
     padding: 0.22em 0.82em;
@@ -112,7 +114,7 @@
     line-height: 1.15;
     box-shadow: 0 1px 2px rgba(74, 93, 117, 0.05);
     transition: background-color 0.2s ease, border-color 0.2s ease,
-      color 0.2s ease, box-shadow 0.2s ease;
+      color 0.2s ease, box-shadow 0.2s ease, transform 0.24s ease;
   }
 
   .masthead__menu-item--lang a:hover,
@@ -121,6 +123,7 @@
     border-color: #c6d3e1;
     color: #4f667f !important;
     box-shadow: 0 2px 5px rgba(74, 93, 117, 0.08);
+    transform: translateY(-1px);
     text-decoration: none;
   }
 
@@ -130,24 +133,96 @@
 
   .masthead,
   #main {
-    transition: opacity 0.36s ease-in-out;
+    will-change: opacity, transform, filter;
+    backface-visibility: hidden;
+    transform-origin: 50% 0;
+    transition: opacity 0.22s cubic-bezier(0.32, 0.72, 0, 1),
+      transform 0.42s cubic-bezier(0.22, 1, 0.36, 1),
+      filter 0.42s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  body.lang-transitioning .masthead__menu-item--lang a {
+    background: #eaf2fb;
+    border-color: #bfd1e4;
+    color: #3d5877 !important;
+    box-shadow: 0 6px 18px rgba(74, 93, 117, 0.12);
   }
 
   body.lang-switching .masthead,
   body.lang-switching #main {
-    opacity: 0.22;
+    opacity: 0;
+    transform: translateY(12px) scale(0.988);
+    filter: blur(10px);
     pointer-events: none;
+  }
+
+  @keyframes lang-content-out {
+    from {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+      filter: blur(0);
+    }
+    to {
+      opacity: 0;
+      transform: translateY(8px) scale(0.99);
+      filter: blur(8px);
+    }
+  }
+
+  @keyframes lang-content-in {
+    from {
+      opacity: 0;
+      transform: translateY(14px) scale(0.992);
+      filter: blur(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+      filter: blur(0);
+    }
+  }
+
+  @supports (view-transition-name: none) {
+    .masthead {
+      view-transition-name: lang-masthead;
+    }
+
+    #main {
+      view-transition-name: lang-main;
+    }
+
+    ::view-transition-old(lang-masthead),
+    ::view-transition-old(lang-main) {
+      animation: lang-content-out 180ms cubic-bezier(0.4, 0, 1, 1) both;
+    }
+
+    ::view-transition-new(lang-masthead),
+    ::view-transition-new(lang-main) {
+      animation: lang-content-in 420ms cubic-bezier(0.22, 1, 0.36, 1) both;
+    }
   }
 
   @media (prefers-reduced-motion: reduce) {
     .masthead,
-    #main {
+    #main,
+    .masthead__menu-item--lang a {
       transition: none;
     }
 
     body.lang-switching .masthead,
     body.lang-switching #main {
       opacity: 1;
+      transform: none;
+      filter: none;
+    }
+
+    @supports (view-transition-name: none) {
+      ::view-transition-old(lang-masthead),
+      ::view-transition-old(lang-main),
+      ::view-transition-new(lang-masthead),
+      ::view-transition-new(lang-main) {
+        animation: none;
+      }
     }
   }
 </style>
