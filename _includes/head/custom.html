@@ -130,19 +130,24 @@
 
   .masthead,
   #main {
-    transition: opacity 0.18s ease, transform 0.18s ease;
+    transition: opacity 0.36s ease-in-out;
   }
 
   body.lang-switching .masthead,
   body.lang-switching #main {
-    opacity: 0.08;
-    transform: translateY(2px);
+    opacity: 0.22;
+    pointer-events: none;
   }
 
   @media (prefers-reduced-motion: reduce) {
     .masthead,
     #main {
       transition: none;
+    }
+
+    body.lang-switching .masthead,
+    body.lang-switching #main {
+      opacity: 1;
     }
   }
 </style>

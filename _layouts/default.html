@@ -65,6 +65,7 @@ layout: compress
             } catch (e) {}
           }
 
+          const LANG_FADE_MS = 360;
           let isSwitchingLanguage = false;
 
           document.querySelectorAll('.projects-container').forEach(function(container) {
@@ -109,10 +110,15 @@ layout: compress
                 setSiteLanguage(document.documentElement.lang === 'zh' ? 'en' : 'zh');
 
                 window.requestAnimationFrame(function() {
-                  document.body.classList.remove('lang-switching');
-                  isSwitchingLanguage = false;
+                  window.requestAnimationFrame(function() {
+                    document.body.classList.remove('lang-switching');
+
+                    window.setTimeout(function() {
+                      isSwitchingLanguage = false;
+                    }, LANG_FADE_MS);
+                  });
                 });
-              }, 140);
+              }, LANG_FADE_MS);
             };
           }
         </script>
