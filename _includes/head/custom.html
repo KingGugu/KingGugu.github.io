@@ -133,12 +133,11 @@
 
   .masthead,
   #main {
-    will-change: opacity, transform, filter;
+    will-change: opacity, transform;
     backface-visibility: hidden;
     transform-origin: 50% 0;
     transition: opacity 0.22s cubic-bezier(0.32, 0.72, 0, 1),
-      transform 0.42s cubic-bezier(0.22, 1, 0.36, 1),
-      filter 0.42s cubic-bezier(0.22, 1, 0.36, 1);
+      transform 0.42s cubic-bezier(0.22, 1, 0.36, 1);
   }
 
   body.lang-transitioning .masthead__menu-item--lang a {
@@ -152,7 +151,6 @@
   body.lang-switching #main {
     opacity: 0;
     transform: translateY(2px);
-    filter: blur(3px);
     pointer-events: none;
   }
 
@@ -160,12 +158,10 @@
     from {
       opacity: 1;
       transform: translateY(0);
-      filter: blur(0);
     }
     to {
       opacity: 0;
       transform: translateY(2px);
-      filter: blur(2px);
     }
   }
 
@@ -173,12 +169,10 @@
     from {
       opacity: 0;
       transform: translateY(2px);
-      filter: blur(3px);
     }
     to {
       opacity: 1;
       transform: translateY(0);
-      filter: blur(0);
     }
   }
 
@@ -213,7 +207,6 @@
     body.lang-switching #main {
       opacity: 1;
       transform: none;
-      filter: none;
     }
 
     @supports (view-transition-name: none) {
