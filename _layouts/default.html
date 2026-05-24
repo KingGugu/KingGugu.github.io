@@ -60,9 +60,6 @@ layout: compress
           <script>
           function setSiteLanguage(lang) {
             document.documentElement.lang = lang === 'zh' ? 'zh' : 'en';
-            try {
-              localStorage.setItem('site-lang', document.documentElement.lang);
-            } catch (e) {}
           }
 
           const LANG_SWITCH_OUT_MS = 180;

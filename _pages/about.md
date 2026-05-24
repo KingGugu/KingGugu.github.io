@@ -215,7 +215,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation](https://arxiv.org/abs/2212.08262)  
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu  
-  *AAAI Conference on Artificial Intelligence (**AAAI**, **<font color="red">Oral</font>**), 2023* · [Code](https://github.com/KingGugu/TiCoSeRec) · [Video](https://doi.org/10.48448/wmh8-p908) · [中文解读](https://zhuanlan.zhihu.com/p/592832740)
+  *AAAI Conference on Artificial Intelligence (**AAAI**, **<font color="red">Oral</font>**), 2023* · [Code](https://github.com/KingGugu/TiCoSeRec) · [Video](https://doi.org/10.48448/wmh8-p908) · [<span class="zh-inline">中文解读</span>](https://zhuanlan.zhihu.com/p/592832740)
 
 </div>
 
@@ -320,7 +320,7 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 
 - [Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation](https://arxiv.org/abs/2212.08262)  
   **Yizhou Dang**, Enneng Yang, Guibing Guo$^{\dagger}$, Linying Jiang, Xingwei Wang$^{\dagger}$, Xiaoxiao Xu, Qinghui Sun, Hong Liu  
-  *AAAI Conference on Artificial Intelligence (**AAAI**, **<font color="red">Oral</font>**), 2023* · [Code](https://github.com/KingGugu/TiCoSeRec) · [Video](https://doi.org/10.48448/wmh8-p908) · [中文解读](https://zhuanlan.zhihu.com/p/592832740)
+  *AAAI Conference on Artificial Intelligence (**AAAI**, **<font color="red">Oral</font>**), 2023* · [Code](https://github.com/KingGugu/TiCoSeRec) · [Video](https://doi.org/10.48448/wmh8-p908) · [<span class="zh-inline">中文解读</span>](https://zhuanlan.zhihu.com/p/592832740)
 
 </div>
 
@@ -351,7 +351,7 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 # 🏆 Honors and Awards
 
 - *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
-- *2025*&nbsp;&nbsp;Young Talent Support Program for Doctoral Students, CAST (中国科协青年科技人才培育工程博士生专项计划)
+- *2025*&nbsp;&nbsp;Young Talent Support Program for Doctoral Students, CAST (<span class="zh-inline">中国科协青年科技人才培育工程博士生专项计划</span>)
 - *2023*&nbsp;&nbsp;National Scholarship for Graduate Student (Top 1%)
 - *2022,2023*&nbsp;&nbsp;First-Class Scholarship from NEU
 - *2022*&nbsp;&nbsp;AAAI Student Scholarship
