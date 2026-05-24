@@ -32,7 +32,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="lang-zh" markdown="1">
 
-你好！我是党翌洲，目前是[东北大学](http://www.neu.edu.cn/)[软件学院](http://sc.neu.edu.cn/)博士三年级研究生，现居沈阳。我很荣幸师从[郭贵冰教授](https://guoguibing.github.io/cn/)。此前，我于 2023 年在同一学院获得工学学士学位。目前，我也与[杨恩能博士](https://ennengyang.github.io/)和[刘禹廷博士](https://vanillacreamer.github.io/)保持密切合作。
+你好！我是党翌洲，目前是[东北大学](http://www.neu.edu.cn/)[软件学院](http://sc.neu.edu.cn/)三年级博士生，现居沈阳。我很荣幸师从[郭贵冰教授](https://guoguibing.github.io/cn/)。此前，我于 2023 年在同一学院获得工学学士学位。目前，我也与[杨恩能博士](https://ennengyang.github.io/)和[刘禹廷博士](https://vanillacreamer.github.io/)保持密切合作。
 
 我的研究兴趣主要集中在 AI for Science（尤其是酶设计）与推荐系统（尤其是序列推荐和基于大语言模型的推荐）。我重点关注以数据为中心的方法，例如数据增强与数据合成。
 
