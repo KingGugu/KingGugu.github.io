@@ -65,6 +65,8 @@ layout: compress
             } catch (e) {}
           }
 
+          let isSwitchingLanguage = false;
+
           document.querySelectorAll('.projects-container').forEach(function(container) {
             const box = container.querySelector('.projects-box');
             const trigger = container.querySelector('.projects-show');
@@ -96,7 +98,21 @@ layout: compress
           if (langToggle) {
             langToggle.onclick = function(event) {
               event.preventDefault();
-              setSiteLanguage(document.documentElement.lang === 'zh' ? 'en' : 'zh');
+              if (isSwitchingLanguage) {
+                return;
+              }
+
+              isSwitchingLanguage = true;
+              document.body.classList.add('lang-switching');
+
+              window.setTimeout(function() {
+                setSiteLanguage(document.documentElement.lang === 'zh' ? 'en' : 'zh');
+
+                window.requestAnimationFrame(function() {
+                  document.body.classList.remove('lang-switching');
+                  isSwitchingLanguage = false;
+                });
+              }, 140);
             };
           }
         </script>

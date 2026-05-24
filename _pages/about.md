@@ -20,7 +20,7 @@ redirect_from:
 
 <div class="lang-en" markdown="1">
 
-Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a third-year Ph.D. student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). Before that, I earned my B.E. degree in 2023 at the same institute. I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
+Hello! This is Yizhou Dang (<span class="zh-inline">党翌洲</span> in Chinese). I am currently a third-year Ph.D. student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). Before that, I earned my B.E. degree in 2023 at the same institute. I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
 
 My research interests focus on AI for science (enzyme design) and recommender systems (sequential recommendation and LLM-based recommendation). I am particularly interested in data-centric methods, such as data augmentation and data synthesis.
 

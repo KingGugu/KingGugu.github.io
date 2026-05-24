@@ -95,6 +95,10 @@
     font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
   }
 
+  .zh-inline {
+    font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  }
+
   .masthead__menu-item--lang a {
     display: inline-block;
     border: 1px solid #d8e0ea;
@@ -122,6 +126,24 @@
 
   .projects-container {
     position: relative;
+  }
+
+  .masthead,
+  #main {
+    transition: opacity 0.18s ease, transform 0.18s ease;
+  }
+
+  body.lang-switching .masthead,
+  body.lang-switching #main {
+    opacity: 0.08;
+    transform: translateY(2px);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .masthead,
+    #main {
+      transition: none;
+    }
   }
 </style>
 
