@@ -420,7 +420,8 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 
 # 👨‍🎓 Mentorships
 
-- Minhan Huang&nbsp;&nbsp;B.E. from NEU (2021-2025); now M.S. at NEU (2025-2028)
+- Yifeng Su&nbsp;&nbsp;M.S. from GUET (2023-2026); incoming Ph.D. at JLU (2026-)
+- Minhan Huang&nbsp;&nbsp;B.E. from NEU (2021-2025); now M.S. at NEU (2025-)
 - Zhifu Wei&nbsp;&nbsp;B.E. from NEU (2023-2027)
 - Yifan Wu&nbsp;&nbsp;B.E. from NEU (2023-2027)
 - Yiming Zheng&nbsp;&nbsp;B.E. from NEU (2024-2028)
@@ -431,7 +432,8 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 
 # 👨‍🎓 学生指导
 
-- 黄敏涵&nbsp;&nbsp;东北大学本科生（2021-2025），现为东北大学硕士研究生（2025-2028）
+- 苏一锋&nbsp;&nbsp;桂林电子科技大学硕士生（2023-2026），即将进入吉林大学攻读博士（2026-）
+- 黄敏涵&nbsp;&nbsp;东北大学本科生（2021-2025），现为东北大学硕士研究生（2025-）
 - 魏智富&nbsp;&nbsp;东北大学本科生（2023-2027）
 - 武怡凡&nbsp;&nbsp;东北大学本科生（2023-2027）
 - 郑熠铭&nbsp;&nbsp;东北大学本科生（2024-2028）
