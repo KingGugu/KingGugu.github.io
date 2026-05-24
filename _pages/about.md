@@ -20,10 +20,7 @@ redirect_from:
 
 <div class="lang-en" markdown="1">
 
-Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a third-year Ph.D. student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China.  
-I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/).  
-Before that, I earned my B.E. degree in 2023 at the same institute.  
-I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
+Hello! This is Yizhou Dang (党翌洲 in Chinese). I am currently a third-year Ph.D. student at [Software College](http://sc.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/), Shenyang, China. I am fortunate to be advised by [Prof. Guibing Guo](https://guoguibing.github.io/cn/). Before that, I earned my B.E. degree in 2023 at the same institute. I am honored to work closely with [Dr. Enneng Yang](https://ennengyang.github.io/) and [Dr. Yuting Liu](https://vanillacreamer.github.io/).
 
 My research interests focus on AI for science (enzyme design) and recommender systems (sequential recommendation and LLM-based recommendation). I am particularly interested in data-centric methods, such as data augmentation and data synthesis.
 
@@ -35,10 +32,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="lang-zh" markdown="1">
 
-你好！我是党翌洲，目前是[东北大学](http://www.neu.edu.cn/)[软件学院](http://sc.neu.edu.cn/)博士三年级研究生，现居沈阳。  
-我很荣幸师从[郭贵冰教授](https://guoguibing.github.io/cn/)。  
-此前，我于 2023 年在同一学院获得工学学士学位。  
-目前，我也与[杨恩能博士](https://ennengyang.github.io/)和[刘禹廷博士](https://vanillacreamer.github.io/)保持密切合作。
+你好！我是党翌洲，目前是[东北大学](http://www.neu.edu.cn/)[软件学院](http://sc.neu.edu.cn/)博士三年级研究生，现居沈阳。我很荣幸师从[郭贵冰教授](https://guoguibing.github.io/cn/)。此前，我于 2023 年在同一学院获得工学学士学位。目前，我也与[杨恩能博士](https://ennengyang.github.io/)和[刘禹廷博士](https://vanillacreamer.github.io/)保持密切合作。
 
 我的研究兴趣主要集中在 AI for Science（尤其是酶设计）与推荐系统（尤其是序列推荐和基于大语言模型的推荐）。我重点关注以数据为中心的方法，例如数据增强与数据合成。
 
@@ -426,10 +420,10 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 
 # 👨‍🎓 Mentorships
 
-- Minhan Huang  B.E. from NEU (2021-2025); now M.S. at NEU (2025-2028)
-- Zhifu Wei  B.E. from NEU (2023-2027)
-- Yifan Wu  B.E. from NEU (2023-2027)
-- Yiming Zheng  B.E. from NEU (2024-2028)
+- Minhan Huang&nbsp;&nbsp;B.E. from NEU (2021-2025); now M.S. at NEU (2025-2028)
+- Zhifu Wei&nbsp;&nbsp;B.E. from NEU (2023-2027)
+- Yifan Wu&nbsp;&nbsp;B.E. from NEU (2023-2027)
+- Yiming Zheng&nbsp;&nbsp;B.E. from NEU (2024-2028)
 
 </div>
 
@@ -437,10 +431,10 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 
 # 👨‍🎓 学生指导
 
-- 黄敏涵  东北大学本科生（2021-2025），现为东北大学硕士研究生（2025-2028）
-- 魏智富  东北大学本科生（2023-2027）
-- 武怡凡  东北大学本科生（2023-2027）
-- 郑熠铭  东北大学本科生（2024-2028）
+- 黄敏涵&nbsp;&nbsp;东北大学本科生（2021-2025），现为东北大学硕士研究生（2025-2028）
+- 魏智富&nbsp;&nbsp;东北大学本科生（2023-2027）
+- 武怡凡&nbsp;&nbsp;东北大学本科生（2023-2027）
+- 郑熠铭&nbsp;&nbsp;东北大学本科生（2024-2028）
 
 </div>
 
