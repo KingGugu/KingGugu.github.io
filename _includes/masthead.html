@@ -3,24 +3,22 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
-        {% assign current_lang = page.lang | default: "en" %}
-        {% if current_lang == "zh" %}
-          {% assign nav_links = site.data.navigation.main_zh %}
-          {% assign home_label = "主页" %}
-          {% assign switch_label = "English" %}
-          {% assign switch_url = "/" %}
-        {% else %}
-          {% assign nav_links = site.data.navigation.main_en %}
-          {% assign home_label = "Homepage" %}
-          {% assign switch_label = "中文" %}
-          {% assign switch_url = "/zh/" %}
-        {% endif %}
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">{{ home_label }}</a></li>
-          {% for link in nav_links %}
-            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="#about-me"><span class="lang-en">Homepage</span><span class="lang-zh">主页</span></a>
+          </li>
+          {% for link in site.data.navigation.main_en %}
+            {% assign zh_link = site.data.navigation.main_zh[forloop.index0] %}
+            <li class="masthead__menu-item">
+              <a href="{{ link.url }}">
+                <span class="lang-en">{{ link.title }}</span>
+                <span class="lang-zh">{{ zh_link.title }}</span>
+              </a>
+            </li>
           {% endfor %}
-          <li class="masthead__menu-item masthead__menu-item--lang"><a href="{{ switch_url | relative_url }}">{{ switch_label }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lang">
+            <a href="#" id="lang-toggle"><span class="lang-en">中文</span><span class="lang-zh">English</span></a>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

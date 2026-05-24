@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="{{ page.lang | default: 'en' }}" class="no-js">
+<html lang="en" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -58,28 +58,45 @@ layout: compress
     {% include scripts.html %}
 
           <script>
-          const currentLang = document.documentElement.lang || 'en';
-          const moreLabel = currentLang === 'zh' ? '更多' : 'More';
-          const lessLabel = currentLang === 'zh' ? '收起' : 'Less';
-          const projectsShow = document.querySelector('#projects-show');
-          const projectsBox = document.querySelector('#projects-box');
-          const projectsShowText = document.querySelector('#projects-show-text');
-          let show = false;
+          function setSiteLanguage(lang) {
+            document.documentElement.lang = lang === 'zh' ? 'zh' : 'en';
+            try {
+              localStorage.setItem('site-lang', document.documentElement.lang);
+            } catch (e) {}
+          }
 
-          if (projectsShow && projectsBox && projectsShowText) {
-            projectsShowText.innerHTML = moreLabel;
-            projectsShow.onclick = function() {
-              if (!show) {
-                projectsBox.style.height = 'auto';
-                projectsBox.style.paddingBottom = '20px';
-                projectsShowText.innerHTML = lessLabel;
-                show = true;
-              } else {
-                show = false;
-                projectsBox.style.height = '180px';
-                projectsBox.style.paddingBottom = '0px';
-                projectsShowText.innerHTML = moreLabel;
-              }
+          document.querySelectorAll('.projects-container').forEach(function(container) {
+            const box = container.querySelector('.projects-box');
+            const trigger = container.querySelector('.projects-show');
+            const text = container.querySelector('.projects-show-text');
+            const lang = container.dataset.lang === 'zh' ? 'zh' : 'en';
+            const labels = lang === 'zh'
+              ? { more: '更多', less: '收起' }
+              : { more: 'More', less: 'Less' };
+            let expanded = false;
+
+            if (!box || !trigger || !text) {
+              return;
+            }
+
+            function render() {
+              box.style.height = expanded ? 'auto' : '180px';
+              box.style.paddingBottom = expanded ? '20px' : '0px';
+              text.innerHTML = expanded ? labels.less : labels.more;
+            }
+
+            render();
+            trigger.onclick = function() {
+              expanded = !expanded;
+              render();
+            };
+          });
+
+          const langToggle = document.querySelector('#lang-toggle');
+          if (langToggle) {
+            langToggle.onclick = function(event) {
+              event.preventDefault();
+              setSiteLanguage(document.documentElement.lang === 'zh' ? 'en' : 'zh');
             };
           }
         </script>
