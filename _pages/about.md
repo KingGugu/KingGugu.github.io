@@ -52,6 +52,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="projects-container lang-en" data-lang="en">
 <ul class="projects-box">
+<li><em>2026.05</em>: 🎉 Our paper on intent-aware sequential recommendation has been accepted by TOIS.</li>
 <li><em>2026.05</em>: 🎉 Our paper on knowledge editing has been accepted by KBS.</li>
 <li><em>2026.05</em>: 🎉 Our paper on protein representation learning has been accepted by KDD 2026.</li>
 <li><em>2026.05</em>: 🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE.</li>
@@ -86,6 +87,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="projects-container lang-zh" data-lang="zh">
 <ul class="projects-box">
+<li><em>2026.05</em>: 🎉 我们基于意图感知的序列推荐论文被 TOIS 接收。</li>
 <li><em>2026.05</em>: 🎉 我们关于知识编辑的论文被 KBS 接收。</li>
 <li><em>2026.05</em>: 🎉 我们关于蛋白质表征学习的论文被 KDD 2026 接收。</li>
 <li><em>2026.05</em>: 🎉 我们关于序列推荐数据增强的综述被 TKDE 接收。</li>
@@ -150,6 +152,10 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 - Repairing and Enriching Heuristic Data Augmentation for Sequential Recommendation  
   **Yizhou Dang**, Chu Zhao, Linying Jiang, Lianbo Ma, Guibing Guo$^{\dagger}$  
   *Journal of Software (**JOS**, Chinese journal), 2026, In Press*
+
+- Smoothed Intent Learning for Sequential Recommendation  
+  Yifeng Su$^{\star}$, **Yizhou Dang$^{\star}$**, Xiaodong Cai$^{\dagger}$, Guibing Guo$^{\dagger}$  
+  *ACM Transactions on Information Systems (**TOIS**), 2026, In Press*
 
 - [Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation](https://arxiv.org/pdf/2604.03688)  
   Zhifu Wei, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Chuang Zhao, Zhu Sun$^{\dagger}$  
@@ -255,6 +261,10 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 - Repairing and Enriching Heuristic Data Augmentation for Sequential Recommendation  
   **Yizhou Dang**, Chu Zhao, Linying Jiang, Lianbo Ma, Guibing Guo$^{\dagger}$  
   *Journal of Software (**JOS**, Chinese journal), 2026, In Press*
+
+- Smoothed Intent Learning for Sequential Recommendation  
+  Yifeng Su$^{\star}$, **Yizhou Dang$^{\star}$**, Xiaodong Cai$^{\dagger}$, Guibing Guo$^{\dagger}$  
+  *ACM Transactions on Information Systems (**TOIS**), 2026, In Press*
 
 - [Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation](https://arxiv.org/pdf/2604.03688)  
   Zhifu Wei, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Chuang Zhao, Zhu Sun$^{\dagger}$  
