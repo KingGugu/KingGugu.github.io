@@ -161,9 +161,9 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
   Zhifu Wei, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Chuang Zhao, Zhu Sun$^{\dagger}$  
   *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026* · [Code](https://github.com/ZhifuWei/FAERec)
 
-- DeCO: A Training-Free Framework for In-Context Knowledge Editing via Incremental Reasoning  
+- [DeCO: A Training-Free Framework for In-Context Knowledge Editing via Incremental Reasoning](https://www.sciencedirect.com/science/article/pii/S095070512601018X)  
   Haoyu Xu, Yuliang Liang, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Linying Jiang, Xingwei Wang  
-  *Knowledge-Based Systems (**KBS**), 2026, In Press*
+  *Knowledge-Based Systems (**KBS**), 2026*
 
 ### 2025
 
@@ -270,9 +270,9 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
   Zhifu Wei, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Chuang Zhao, Zhu Sun$^{\dagger}$  
   *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026* · [Code](https://github.com/ZhifuWei/FAERec)
 
-- DeCO: A Training-Free Framework for In-Context Knowledge Editing via Incremental Reasoning  
+- [DeCO: A Training-Free Framework for In-Context Knowledge Editing via Incremental Reasoning](https://www.sciencedirect.com/science/article/pii/S095070512601018X)  
   Haoyu Xu, Yuliang Liang, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Linying Jiang, Xingwei Wang  
-  *Knowledge-Based Systems (**KBS**), 2026, In Press*
+  *Knowledge-Based Systems (**KBS**), 2026*
 
 ### 2025
 
