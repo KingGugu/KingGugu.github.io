@@ -143,7 +143,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$, Zhu Sun  
-  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026* · [Code](https://github.com/KingGugu/SSS4SR)
+  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**, **<font color="red">Oral</font>**), 2026* · [Code](https://github.com/KingGugu/SSS4SR)
 
 - [Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation](https://arxiv.org/abs/2601.10933)  
   **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$  
@@ -159,7 +159,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
 
 - [Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation](https://arxiv.org/pdf/2604.03688)  
   Zhifu Wei, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Chuang Zhao, Zhu Sun$^{\dagger}$  
-  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026* · [Code](https://github.com/ZhifuWei/FAERec)
+  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**, **<font color="red">Oral</font>**), 2026* · [Code](https://github.com/ZhifuWei/FAERec)
 
 - [DeCO: A Training-Free Framework for In-Context Knowledge Editing via Incremental Reasoning](https://www.sciencedirect.com/science/article/pii/S095070512601018X)  
   Haoyu Xu, Yuliang Liang, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Linying Jiang, Xingwei Wang  
@@ -252,7 +252,7 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$, Zhu Sun  
-  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026* · [Code](https://github.com/KingGugu/SSS4SR)
+  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**, **<font color="red">Oral</font>**), 2026* · [Code](https://github.com/KingGugu/SSS4SR)
 
 - [Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation](https://arxiv.org/abs/2601.10933)  
   **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo$^{\dagger}$, Xingwei Wang$^{\dagger}$  
@@ -268,7 +268,7 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 
 - [Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation](https://arxiv.org/pdf/2604.03688)  
   Zhifu Wei, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Chuang Zhao, Zhu Sun$^{\dagger}$  
-  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2026* · [Code](https://github.com/ZhifuWei/FAERec)
+  *International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**, **<font color="red">Oral</font>**), 2026* · [Code](https://github.com/ZhifuWei/FAERec)
 
 - [DeCO: A Training-Free Framework for In-Context Knowledge Editing via Incremental Reasoning](https://www.sciencedirect.com/science/article/pii/S095070512601018X)  
   Haoyu Xu, Yuliang Liang, **Yizhou Dang**, Guibing Guo$^{\dagger}$, Jianzhe Zhao, Linying Jiang, Xingwei Wang  
