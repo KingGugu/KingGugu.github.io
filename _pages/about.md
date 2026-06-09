@@ -363,12 +363,7 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 - *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
 - *2025*&nbsp;&nbsp;Young Talent Support Program for Doctoral Students, CAST (<span class="zh-inline">中国科协青年科技人才培育工程博士生专项计划</span>)
 - *2023*&nbsp;&nbsp;National Scholarship for Graduate Student (Top 1%)
-- *2022,2023*&nbsp;&nbsp;First-Class Scholarship from NEU
 - *2022*&nbsp;&nbsp;AAAI Student Scholarship
-- *2022*&nbsp;&nbsp;Baidu App User Experience Analysis Competition, First Prize
-- *2022*&nbsp;&nbsp;Ministry of Education - Huawei Intelligent Foundation Future Stars
-- *2021,2022*&nbsp;&nbsp;Huawei Intelligent Foundation Scholarship
-- *2020*&nbsp;&nbsp;Outstanding Student of NEU
 
 </div>
 
@@ -379,12 +374,7 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
 - *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
 - *2025*&nbsp;&nbsp;中国科协青年科技人才培育工程博士生专项计划
 - *2023*&nbsp;&nbsp;研究生国家奖学金（Top 1%）
-- *2022,2023*&nbsp;&nbsp;东北大学一等奖学金
 - *2022*&nbsp;&nbsp;AAAI Student Scholarship
-- *2022*&nbsp;&nbsp;百度用户体验分析竞赛一等奖
-- *2022*&nbsp;&nbsp;教育部-华为智能基座未来之星
-- *2021,2022*&nbsp;&nbsp;华为智能基座奖学金
-- *2020*&nbsp;&nbsp;东北大学优秀学生
 
 </div>
 
