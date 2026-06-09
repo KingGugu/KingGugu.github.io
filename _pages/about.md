@@ -138,7 +138,7 @@ $^{\dagger}$ indicates corresponding author. $^{\star}$ indicates equal contribu
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
 
 - Enhancing Protein Representation Learning via Manifold Restore Mixing  
-  **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang, Zhu Sun  
+  **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang, Zhu Sun$^{\dagger}$  
   *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026, In Press* · [Code](https://github.com/KingGugu/MRM)
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
@@ -247,7 +247,7 @@ $^{\dagger}$ 表示通讯作者。$^{\star}$ 表示共同一作。
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
 
 - Enhancing Protein Representation Learning via Manifold Restore Mixing  
-  **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo, Xingwei Wang, Zhu Sun  
+  **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo$^{\dagger}$, Xingwei Wang, Zhu Sun$^{\dagger}$  
   *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026, In Press* · [Code](https://github.com/KingGugu/MRM)
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
