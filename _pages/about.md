@@ -137,9 +137,9 @@ Please feel free to contact me by email if you have any questions or are seeking
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang<sup>&dagger;</sup>, Guibing Guo<sup>&dagger;</sup>  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
 
-- Enhancing Protein Representation Learning via Manifold Restore Mixing  
+- [Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307)  
   **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang, Zhu Sun<sup>&dagger;</sup>  
-  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026, In Press* · [Code](https://github.com/KingGugu/MRM)
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026* · [Code](https://github.com/KingGugu/MRM)
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>, Zhu Sun  
@@ -246,9 +246,9 @@ Please feel free to contact me by email if you have any questions or are seeking
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang<sup>&dagger;</sup>, Guibing Guo<sup>&dagger;</sup>  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
 
-- Enhancing Protein Representation Learning via Manifold Restore Mixing  
+- [Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307)  
   **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang, Zhu Sun<sup>&dagger;</sup>  
-  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026, In Press* · [Code](https://github.com/KingGugu/MRM)
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026* · [Code](https://github.com/KingGugu/MRM)
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>, Zhu Sun  
@@ -386,7 +386,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 - Conference Reviewers:
   - SIGIR 2026
-  - AAAI 2026
+  - AAAI 2026, 2027
   - IJCAI 2025, 2026
   - KDD 2024, 2026
 - Journal Reviewers:
@@ -403,7 +403,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 - 会议审稿人:
   - SIGIR 2026
-  - AAAI 2026
+  - AAAI 2026, 2027
   - IJCAI 2025, 2026
   - KDD 2024, 2026
 - 期刊审稿人:
