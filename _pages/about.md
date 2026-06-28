@@ -440,6 +440,38 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 </div>
 
-<div class="visitor-map" style="width: 300px; max-width: 100%; overflow: hidden;">
-  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=AhD1BFGETYDEsqgNCE2_bZIfhW-Hyve54ru1i-GKfhQ&cl=ffffff&w=300"></script>
+<div class="visitor-map" style="width: 300px; max-width: 100%; margin: 1.5rem auto 0; text-align: center; overflow: hidden;">
+  <div class="visitor-map__count" style="margin-bottom: 0.35rem; font-size: 0.85rem; color: #666;" aria-live="polite">Visits: loading...</div>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=AhD1BFGETYDEsqgNCE2_bZIfhW-Hyve54ru1i-GKfhQ&cl=ffffff&w=300&t=v"></script>
+  <style>
+    .visitor-map .mapmyvisitors-date {
+      display: none !important;
+    }
+  </style>
+  <script>
+    (function() {
+      var countLabel = document.querySelector('.visitor-map__count');
+      var visitorMap = document.querySelector('.visitor-map');
+
+      function syncVisitorCount() {
+        var source = visitorMap && visitorMap.querySelector('.mapmyvisitors-visitors');
+        if (!countLabel || !source) {
+          return;
+        }
+
+        var text = source.textContent.trim();
+        if (text) {
+          countLabel.textContent = 'Visits: ' + text.replace(/\s*pageviews?/i, '');
+        }
+      }
+
+      if (visitorMap && window.MutationObserver) {
+        var observer = new MutationObserver(syncVisitorCount);
+        observer.observe(visitorMap, { childList: true, characterData: true, subtree: true });
+      }
+
+      window.setTimeout(syncVisitorCount, 1000);
+      window.setTimeout(syncVisitorCount, 3000);
+    })();
+  </script>
 </div>
