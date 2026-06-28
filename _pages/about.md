@@ -139,7 +139,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 - [Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307)  
   **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang, Zhu Sun<sup>&dagger;</sup>  
-  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026* · [Code](https://github.com/KingGugu/MRM)
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**, **<font color="red">Oral</font>**), 2026* · [Code](https://github.com/KingGugu/MRM)
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>, Zhu Sun  
@@ -248,7 +248,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 - [Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307)  
   **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang, Zhu Sun<sup>&dagger;</sup>  
-  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026* · [Code](https://github.com/KingGugu/MRM)
+  *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**, **<font color="red">Oral</font>**), 2026* · [Code](https://github.com/KingGugu/MRM)
 
 - [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/pdf/2604.05309)  
   **Yizhou Dang**, Yifan Wu, Minhan Huang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>, Zhu Sun  
@@ -440,4 +440,6 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 </div>
 
-<script async type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=343739&w=300&t=tt&d=eimuBYNRaOftpcjrQ9vfEm6Gggdhdu4Hf6ZB0_3CvPA&co=ffffff&cmo=009fff&cmn=18e0ff&ct=00196b'></script>
+<div class="visitor-map" style="width: 300px; max-width: 100%; overflow: hidden;">
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=AhD1BFGETYDEsqgNCE2_bZIfhW-Hyve54ru1i-GKfhQ&cl=ffffff&w=300"></script>
+</div>
