@@ -149,9 +149,9 @@ Please feel free to contact me by email if you have any questions or are seeking
   **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>  
   *The Web Conference (**WWW**), 2026* · [Code](https://github.com/KingGugu/TADA)
 
-- Repairing and Enriching Heuristic Data Augmentation for Sequential Recommendation  
+- [Repairing and Enriching Heuristic Data Augmentation for Sequential Recommendation](https://www.jos.org.cn/jos/article/abstract/7678)   
   **Yizhou Dang**, Chu Zhao, Linying Jiang, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>  
-  *Journal of Software (**JOS**, Chinese journal), 2026, In Press*
+  *Journal of Software (**JOS**, Chinese journal), 2026*
 
 - [Smoothed Intent Learning for Sequential Recommendation](https://dl.acm.org/doi/10.1145/3820247)  
   Yifeng Su<sup>&#8902;</sup>, **Yizhou Dang<sup>&#8902;</sup>**, Xiaodong Cai<sup>&dagger;</sup>, Guibing Guo  
@@ -258,9 +258,9 @@ Please feel free to contact me by email if you have any questions or are seeking
   **Yizhou Dang**, Zhifu Wei, Minhan Huang, Lianbo Ma, Jianzhe Zhao, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>  
   *The Web Conference (**WWW**), 2026* · [Code](https://github.com/KingGugu/TADA)
 
-- Repairing and Enriching Heuristic Data Augmentation for Sequential Recommendation  
+- [Repairing and Enriching Heuristic Data Augmentation for Sequential Recommendation](https://www.jos.org.cn/jos/article/abstract/7678)  
   **Yizhou Dang**, Chu Zhao, Linying Jiang, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>  
-  *Journal of Software (**JOS**, Chinese journal), 2026, In Press*
+  *Journal of Software (**JOS**, Chinese journal), 2026*
 
 - [Smoothed Intent Learning for Sequential Recommendation](https://dl.acm.org/doi/10.1145/3820247)  
   Yifeng Su<sup>&#8902;</sup>, **Yizhou Dang<sup>&#8902;</sup>**, Xiaodong Cai<sup>&dagger;</sup>, Guibing Guo  
@@ -385,15 +385,19 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 💻 Service
 
 - Conference Reviewers:
+  - KDD 2024, 2026, 2027
+  - IJCAI 2025, 2026
   - SIGIR 2026
   - AAAI 2026, 2027
-  - IJCAI 2025, 2026
-  - KDD 2024, 2026
+  - IJCNN 2027
 - Journal Reviewers:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - ACM Transactions on Information Systems (TOIS)
   - ACM Transactions on Recommender Systems (TORS)
+- Student Volunteers:
+  - AAAI 2023
+  - SIGIR 2026
 
 </div>
 
@@ -402,15 +406,19 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 💻 学术服务
 
 - 会议审稿人:
+  - KDD 2024, 2026, 2027
+  - IJCAI 2025, 2026
   - SIGIR 2026
   - AAAI 2026, 2027
-  - IJCAI 2025, 2026
-  - KDD 2024, 2026
+  - IJCNN 2027
 - 期刊审稿人:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - ACM Transactions on Information Systems (TOIS)
   - ACM Transactions on Recommender Systems (TORS)
+- 学生志愿者：
+  - AAAI 2023
+  - SIGIR 2026
 
 </div>
 
