@@ -52,6 +52,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="projects-container lang-en" data-lang="en">
 <ul class="projects-box">
+<li><em>2026.07</em>: 🎉 Our paper on repeated padding for sequential recommendation has been accepted by TKDE.</li>
 <li><em>2026.05</em>: 🎉 Our paper on intent-aware sequential recommendation has been accepted by TOIS.</li>
 <li><em>2026.05</em>: 🎉 Our paper on knowledge editing has been accepted by KBS.</li>
 <li><em>2026.05</em>: 🎉 Our paper on protein representation learning has been accepted by KDD 2026.</li>
@@ -87,6 +88,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="projects-container lang-zh" data-lang="zh">
 <ul class="projects-box">
+<li><em>2026.07</em>: 🎉 我们基于重复填充的序列推荐论文被 TKDE 接收。</li>
 <li><em>2026.05</em>: 🎉 我们基于意图感知的序列推荐论文被 TOIS 接收。</li>
 <li><em>2026.05</em>: 🎉 我们关于知识编辑的论文被 KBS 接收。</li>
 <li><em>2026.05</em>: 🎉 我们关于蛋白质表征学习的论文被 KDD 2026 接收。</li>
@@ -136,6 +138,10 @@ Please feel free to contact me by email if you have any questions or are seeking
 - [Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation](https://ieeexplore.ieee.org/document/11391565)  
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang<sup>&dagger;</sup>, Guibing Guo<sup>&dagger;</sup>  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
+
+- Why is Repeated Padding Effective for Sequential Recommendation  
+  **Yizhou Dang**, Enneng Yang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>  
+  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026, In Press* · [Code](https://github.com/KingGugu/RepPad-ENS)
 
 - [Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307)  
   **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang, Zhu Sun<sup>&dagger;</sup>  
@@ -245,6 +251,10 @@ Please feel free to contact me by email if you have any questions or are seeking
 - [Exploring and Tailoring the Test-Time Augmentation for Sequential Recommendation](https://ieeexplore.ieee.org/document/11391565)  
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang<sup>&dagger;</sup>, Guibing Guo<sup>&dagger;</sup>  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
+
+- Why is Repeated Padding Effective for Sequential Recommendation  
+  **Yizhou Dang**, Enneng Yang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>  
+  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026, In Press* · [Code](https://github.com/KingGugu/RepPad-ENS)
 
 - [Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307)  
   **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang, Zhu Sun<sup>&dagger;</sup>  
