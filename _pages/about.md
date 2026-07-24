@@ -139,7 +139,7 @@ Please feel free to contact me by email if you have any questions or are seeking
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang<sup>&dagger;</sup>, Guibing Guo<sup>&dagger;</sup>  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
 
-- Why is Repeated Padding Effective for Sequential Recommendation  
+- [Why is Repeated Padding Effective for Sequential Recommendation](https://ieeexplore.ieee.org/document/11614908)  
   **Yizhou Dang**, Enneng Yang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>  
   *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026, In Press* · [Code](https://github.com/KingGugu/RepPad-ENS)
 
@@ -252,7 +252,7 @@ Please feel free to contact me by email if you have any questions or are seeking
   **Yizhou Dang**, Enneng Yang, Yuting Liu, Jianzhe Zhao, Xingwei Wang<sup>&dagger;</sup>, Guibing Guo<sup>&dagger;</sup>  
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (**<font color="red">TPAMI</font>**), 2026* · [Code](https://github.com/KingGugu/TTA4SR)
 
-- Why is Repeated Padding Effective for Sequential Recommendation  
+- [Why is Repeated Padding Effective for Sequential Recommendation](https://ieeexplore.ieee.org/document/11614908)  
   **Yizhou Dang**, Enneng Yang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>  
   *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026, In Press* · [Code](https://github.com/KingGugu/RepPad-ENS)
 
