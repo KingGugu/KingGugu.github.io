@@ -52,30 +52,31 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="projects-container lang-en" data-lang="en">
 <ul class="projects-box">
-<li><em>2026.07</em>: 🎉 Our paper on repeated padding for sequential recommendation has been accepted by TKDE.</li>
-<li><em>2026.05</em>: 🎉 Our paper on intent-aware sequential recommendation has been accepted by TOIS.</li>
-<li><em>2026.05</em>: 🎉 Our paper on knowledge editing has been accepted by KBS.</li>
-<li><em>2026.05</em>: 🎉 Our paper on protein representation learning has been accepted by KDD 2026.</li>
-<li><em>2026.05</em>: 🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE.</li>
-<li><em>2026.04</em>: 🏅 I'm honored to receive the SIGIR 2026 Student Travel Grant.</li>
-<li><em>2026.04</em>: 🎉 Two papers are accepted by SIGIR 2026.</li>
-<li><em>2026.03</em>: 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal).</li>
-<li><em>2026.02</em>: 🎉 One paper is accepted by TPAMI.</li>
-<li><em>2026.01</em>: 🎉 One paper is accepted by WWW 2026.</li>
-<li><em>2025.12</em>: 🏅 I'm honored to Granted by the Young Talent Support Program for Doctoral Students, CAST.</li>
-<li><em>2025.06</em>: 🎉 One paper is accepted by MIR.</li>
-<li><em>2025.04</em>: 🎉 Two papers are accepted by SIGIR 2025.</li>
-<li><em>2025.01</em>: 🎉 Two papers are accepted by DASFAA 2025.</li>
-<li><em>2024.12</em>: 🎉 One paper is accepted by ICASSP 2025.</li>
-<li><em>2024.12</em>: 🎉 Three papers are accepted by AAAI 2025.</li>
-<li><em>2024.11</em>: 🎉 One paper is accepted by TOIS.</li>
-<li><em>2024.09</em>: 🔊 We released a survey on data augmentation for sequential recommendation.</li>
-<li><em>2024.07</em>: 🎉 One paper is accepted by RecSys 2024</li>
-<li><em>2023.10</em>: 🏅 I'm honored to receive the National Scholarship for graduate student (Top 1%).</li>
-<li><em>2023.10</em>: 🎉 One paper is accepted by TKDE.</li>
-<li><em>2023.06</em>: 🎓 I graduated from NEU!</li>
-<li><em>2022.12</em>: 🏅 I'm honored to receive the AAAI 2023 Student Scholarship.</li>
-<li><em>2022.11</em>: 🎉 One paper is accepted by AAAI 2023.</li>
+<li>[<em>2026.08</em>] 🎉 I'm honored to be selected into Academic Elite Class 01 of Northeastern University.</li>
+<li>[<em>2026.07</em>] 🎉 Our paper on repeated padding for sequential recommendation has been accepted by TKDE.</li>
+<li>[<em>2026.05</em>] 🎉 Our paper on intent-aware sequential recommendation has been accepted by TOIS.</li>
+<li>[<em>2026.05</em>] 🎉 Our paper on knowledge editing has been accepted by KBS.</li>
+<li>[<em>2026.05</em>] 🎉 Our paper on protein representation learning has been accepted by KDD 2026.</li>
+<li>[<em>2026.05</em>] 🎉 Our survey on data augmentation for sequential recommendation has been accepted by TKDE.</li>
+<li>[<em>2026.04</em>] 🏅 I'm honored to receive the SIGIR 2026 Student Travel Grant.</li>
+<li>[<em>2026.04</em>] 🎉 Two papers are accepted by SIGIR 2026.</li>
+<li>[<em>2026.03</em>] 🎉 One paper is accepted by JOS (Journal of Software, a Chinese journal).</li>
+<li>[<em>2026.02</em>] 🎉 One paper is accepted by TPAMI.</li>
+<li>[<em>2026.01</em>] 🎉 One paper is accepted by WWW 2026.</li>
+<li>[<em>2025.12</em>] 🏅 I'm honored to Granted by the Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST.</li>
+<li>[<em>2025.06</em>] 🎉 One paper is accepted by MIR.</li>
+<li>[<em>2025.04</em>] 🎉 Two papers are accepted by SIGIR 2025.</li>
+<li>[<em>2025.01</em>] 🎉 Two papers are accepted by DASFAA 2025.</li>
+<li>[<em>2024.12</em>] 🎉 One paper is accepted by ICASSP 2025.</li>
+<li>[<em>2024.12</em>] 🎉 Three papers are accepted by AAAI 2025.</li>
+<li>[<em>2024.11</em>] 🎉 One paper is accepted by TOIS.</li>
+<li>[<em>2024.09</em>] 🔊 We released a survey on data augmentation for sequential recommendation.</li>
+<li>[<em>2024.07</em>] 🎉 One paper is accepted by RecSys 2024</li>
+<li>[<em>2023.10</em>] 🏅 I'm honored to receive the National Scholarship for graduate student (Top 1%).</li>
+<li>[<em>2023.10</em>] 🎉 One paper is accepted by TKDE.</li>
+<li>[<em>2023.06</em>] 🎓 I graduated from NEU!</li>
+<li>[<em>2022.12</em>] 🏅 I'm honored to receive the AAAI 2023 Student Scholarship.</li>
+<li>[<em>2022.11</em>] 🎉 One paper is accepted by AAAI 2023.</li>
 <p class="projects-show"><span class="projects-show-text">More</span></p>
 </ul>
 </div>
@@ -88,30 +89,31 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="projects-container lang-zh" data-lang="zh">
 <ul class="projects-box">
-<li><em>2026.07</em>: 🎉 我们基于重复填充的序列推荐论文被 TKDE 接收。</li>
-<li><em>2026.05</em>: 🎉 我们基于意图感知的序列推荐论文被 TOIS 接收。</li>
-<li><em>2026.05</em>: 🎉 我们关于知识编辑的论文被 KBS 接收。</li>
-<li><em>2026.05</em>: 🎉 我们关于蛋白质表征学习的论文被 KDD 2026 接收。</li>
-<li><em>2026.05</em>: 🎉 我们关于序列推荐数据增强的综述被 TKDE 接收。</li>
-<li><em>2026.04</em>: 🏅 我很荣幸获得 SIGIR 2026 Student Travel Grant。</li>
-<li><em>2026.04</em>: 🎉 两篇论文被 SIGIR 2026 接收。</li>
-<li><em>2026.03</em>: 🎉 一篇论文被《软件学报》（JOS）接收。</li>
-<li><em>2026.02</em>: 🎉 一篇论文被 TPAMI 接收。</li>
-<li><em>2026.01</em>: 🎉 一篇论文被 WWW 2026 接收。</li>
-<li><em>2025.12</em>: 🏅 我很荣幸入选中国科协青年科技人才培育工程博士生专项计划。</li>
-<li><em>2025.06</em>: 🎉 一篇论文被 MIR 接收。</li>
-<li><em>2025.04</em>: 🎉 两篇论文被 SIGIR 2025 接收。</li>
-<li><em>2025.01</em>: 🎉 两篇论文被 DASFAA 2025 接收。</li>
-<li><em>2024.12</em>: 🎉 一篇论文被 ICASSP 2025 接收。</li>
-<li><em>2024.12</em>: 🎉 三篇论文被 AAAI 2025 接收。</li>
-<li><em>2024.11</em>: 🎉 一篇论文被 TOIS 接收。</li>
-<li><em>2024.09</em>: 🔊 我们发布了关于序列推荐数据增强的综述。</li>
-<li><em>2024.07</em>: 🎉 一篇论文被 RecSys 2024 接收。</li>
-<li><em>2023.10</em>: 🏅 我很荣幸获得研究生国家奖学金（Top 1%）。</li>
-<li><em>2023.10</em>: 🎉 一篇论文被 TKDE 接收。</li>
-<li><em>2023.06</em>: 🎓 我从东北大学本科毕业！</li>
-<li><em>2022.12</em>: 🏅 我很荣幸获得 AAAI 2023 Student Scholarship。</li>
-<li><em>2022.11</em>: 🎉 一篇论文被 AAAI 2023 接收。</li>
+<li>[<em>2026.08</em>] 🎉 我很荣幸入选东北大学学术尖峰“01班”。</li>
+<li>[<em>2026.07</em>] 🎉 我们基于重复填充的序列推荐论文被 TKDE 接收。</li>
+<li>[<em>2026.05</em>] 🎉 我们基于意图感知的序列推荐论文被 TOIS 接收。</li>
+<li>[<em>2026.05</em>] 🎉 我们关于知识编辑的论文被 KBS 接收。</li>
+<li>[<em>2026.05</em>] 🎉 我们关于蛋白质表征学习的论文被 KDD 2026 接收。</li>
+<li>[<em>2026.05</em>] 🎉 我们关于序列推荐数据增强的综述被 TKDE 接收。</li>
+<li>[<em>2026.04</em>] 🏅 我很荣幸获得 SIGIR 2026 Student Travel Grant。</li>
+<li>[<em>2026.04</em>] 🎉 两篇论文被 SIGIR 2026 接收。</li>
+<li>[<em>2026.03</em>] 🎉 一篇论文被《软件学报》（JOS）接收。</li>
+<li>[<em>2026.02</em>] 🎉 一篇论文被 TPAMI 接收。</li>
+<li>[<em>2026.01</em>] 🎉 一篇论文被 WWW 2026 接收。</li>
+<li>[<em>2025.12</em>] 🏅 我很荣幸入选中国科协青年科技人才培育工程博士生专项计划。</li>
+<li>[<em>2025.06</em>] 🎉 一篇论文被 MIR 接收。</li>
+<li>[<em>2025.04</em>] 🎉 两篇论文被 SIGIR 2025 接收。</li>
+<li>[<em>2025.01</em>] 🎉 两篇论文被 DASFAA 2025 接收。</li>
+<li>[<em>2024.12</em>] 🎉 一篇论文被 ICASSP 2025 接收。</li>
+<li>[<em>2024.12</em>] 🎉 三篇论文被 AAAI 2025 接收。</li>
+<li>[<em>2024.11</em>] 🎉 一篇论文被 TOIS 接收。</li>
+<li>[<em>2024.09</em>] 🔊 我们发布了关于序列推荐数据增强的综述。</li>
+<li>[<em>2024.07</em>] 🎉 一篇论文被 RecSys 2024 接收。</li>
+<li>[<em>2023.10</em>] 🏅 我很荣幸获得研究生国家奖学金（Top 1%）。</li>
+<li>[<em>2023.10</em>] 🎉 一篇论文被 TKDE 接收。</li>
+<li>[<em>2023.06</em>] 🎓 我从东北大学本科毕业！</li>
+<li>[<em>2022.12</em>] 🏅 我很荣幸获得 AAAI 2023 Student Scholarship。</li>
+<li>[<em>2022.11</em>] 🎉 一篇论文被 AAAI 2023 接收。</li>
 <p class="projects-show"><span class="projects-show-text">更多</span></p>
 </ul>
 </div>
@@ -141,7 +143,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 - [Why is Repeated Padding Effective for Sequential Recommendation](https://ieeexplore.ieee.org/document/11614908)  
   **Yizhou Dang**, Enneng Yang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>  
-  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026, In Press* · [Code](https://github.com/KingGugu/RepPad-ENS)
+  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026* · [Code](https://github.com/KingGugu/RepPad-ENS)
 
 - [Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307)  
   **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang, Zhu Sun<sup>&dagger;</sup>  
@@ -254,7 +256,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 - [Why is Repeated Padding Effective for Sequential Recommendation](https://ieeexplore.ieee.org/document/11614908)  
   **Yizhou Dang**, Enneng Yang, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang<sup>&dagger;</sup>  
-  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026, In Press* · [Code](https://github.com/KingGugu/RepPad-ENS)
+  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026* · [Code](https://github.com/KingGugu/RepPad-ENS)
 
 - [Enhancing Protein Representation Learning via Manifold Restore Mixing](https://arxiv.org/abs/2606.22307)  
   **Yizhou Dang**, Chuang Zhao, Lianbo Ma, Guibing Guo<sup>&dagger;</sup>, Xingwei Wang, Zhu Sun<sup>&dagger;</sup>  
@@ -370,8 +372,9 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 # 🏆 Honors and Awards
 
+- *2026*&nbsp;&nbsp;Academic Elite Class 01 of Northeastern University
 - *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
-- *2025*&nbsp;&nbsp;Young Talent Support Program for Doctoral Students, CAST (<span class="zh-inline">中国科协青年科技人才培育工程博士生专项计划</span>)
+- *2025*&nbsp;&nbsp;Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (<span class="zh-inline">中国科协青年科技人才培育工程博士生专项计划</span>)
 - *2023*&nbsp;&nbsp;National Scholarship for Graduate Student (Top 1%)
 - *2022*&nbsp;&nbsp;AAAI Student Scholarship
 
@@ -381,10 +384,11 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 # 🏆 荣誉奖励
 
-- *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
+- *2026*&nbsp;&nbsp;东北大学学术尖峰“01班”
+- *2026*&nbsp;&nbsp;SIGIR学生旅行资助
 - *2025*&nbsp;&nbsp;中国科协青年科技人才培育工程博士生专项计划
 - *2023*&nbsp;&nbsp;研究生国家奖学金（Top 1%）
-- *2022*&nbsp;&nbsp;AAAI Student Scholarship
+- *2022*&nbsp;&nbsp;AAAI学生奖学金
 
 </div>
 
@@ -440,7 +444,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 - Minhan Huang (2024.09-)&nbsp;&nbsp;B.E. from NEU; now M.S. at NEU
 - Yifeng Su (2024.11-2026.05)&nbsp;&nbsp;M.S. from GUET; incoming Ph.D. at JLU
-- Zhifu Wei (2024.12-2026.02)&nbsp;&nbsp;B.E. from NEU
+- [Zhifu Wei](https://zhifuwei.github.io/) (2024.12-2026.02)&nbsp;&nbsp;B.E. from NEU
 - Yifan Wu (2025.02-2026.02)&nbsp;&nbsp;B.E. from NEU
 - Yiming Zheng (2025.11-)&nbsp;&nbsp;B.E. from NEU
 
@@ -452,7 +456,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 - 黄敏涵（2024.09-）&nbsp;&nbsp;东北大学本科生，现为东北大学硕士研究生
 - 苏一锋（2024.11-2026.05）&nbsp;&nbsp;桂林电子科技大学硕士生，即将进入吉林大学攻读博士研究生
-- 魏智富（2024.12-2026.02）&nbsp;&nbsp;东北大学本科生
+- [魏智富](https://zhifuwei.github.io/)（2024.12-2026.02）&nbsp;&nbsp;东北大学本科生
 - 武怡凡（2025.02-2026.02）&nbsp;&nbsp;东北大学本科生
 - 郑熠铭（2025.11-）&nbsp;&nbsp;东北大学本科生
 
