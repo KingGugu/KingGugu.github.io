@@ -372,7 +372,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 # 🏆 Honors and Awards
 
-- *2026*&nbsp;&nbsp;Academic Elite Class 01 of Northeastern University
+- *2026*&nbsp;&nbsp;Academic Peak "01 Class" Special Program of Northeastern University
 - *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
 - *2025*&nbsp;&nbsp;Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (<span class="zh-inline">中国科协青年科技人才培育工程博士生专项计划</span>)
 - *2023*&nbsp;&nbsp;National Scholarship for Graduate Student (Top 1%)
