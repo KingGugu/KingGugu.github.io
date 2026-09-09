@@ -52,7 +52,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="projects-container lang-en" data-lang="en">
 <ul class="projects-box">
-<li>[<em>2026.08</em>] 🎉 I'm honored to be selected into Academic Elite Class 01 of Northeastern University.</li>
+<li>[<em>2026.08</em>] 🎉 I'm honored to be selected into Academic Peak "01 Class" Special Program of Northeastern University.</li>
 <li>[<em>2026.07</em>] 🎉 Our paper on repeated padding for sequential recommendation has been accepted by TKDE.</li>
 <li>[<em>2026.05</em>] 🎉 Our paper on intent-aware sequential recommendation has been accepted by TOIS.</li>
 <li>[<em>2026.05</em>] 🎉 Our paper on knowledge editing has been accepted by KBS.</li>
@@ -374,7 +374,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 - *2026*&nbsp;&nbsp;Academic Peak "01 Class" Special Program of Northeastern University
 - *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
-- *2025*&nbsp;&nbsp;Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST (<span class="zh-inline">中国科协青年科技人才培育工程博士生专项计划</span>)
+- *2025*&nbsp;&nbsp;Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST
 - *2023*&nbsp;&nbsp;National Scholarship for Graduate Student (Top 1%)
 - *2022*&nbsp;&nbsp;AAAI Student Scholarship
 
@@ -460,5 +460,9 @@ Please feel free to contact me by email if you have any questions or are seeking
 - 苏一锋（2024.11-2026.05）&nbsp;&nbsp;桂林电子科技大学硕士生，现为吉林大学博士生
 - 黄敏涵（2024.09-）&nbsp;&nbsp;东北大学本科生，现为东北大学硕士研究生
 
+</div>
+
+<div class="visitor-map" style="width: 300px; max-width: 100%; margin: 1.5rem auto 0; text-align: center; overflow: hidden;">
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=m&d=AhD1BFGETYDEsqgNCE2_bZIfhW-Hyve54ru1i-GKfhQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
 </div>
 
