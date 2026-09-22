@@ -1,0 +1,86 @@
+<script>
+// Bind before page content: third-party widgets may block the remaining scripts.
+(function() {
+  function setSiteLanguage(lang) {
+    document.documentElement.lang = lang === 'zh' ? 'zh' : 'en';
+  }
+
+  const LANG_SWITCH_OUT_MS = 180;
+  const LANG_SWITCH_IN_MS = 420;
+  let isSwitchingLanguage = false;
+
+  function runFallbackLanguageTransition(nextLang) {
+    document.body.classList.add('lang-transitioning', 'lang-switching');
+
+    window.setTimeout(function() {
+      setSiteLanguage(nextLang);
+
+      window.requestAnimationFrame(function() {
+        window.requestAnimationFrame(function() {
+          document.body.classList.remove('lang-switching');
+
+          window.setTimeout(function() {
+            document.body.classList.remove('lang-transitioning');
+            isSwitchingLanguage = false;
+          }, LANG_SWITCH_IN_MS);
+        });
+      });
+    }, LANG_SWITCH_OUT_MS);
+  }
+
+  function toggleSiteLanguage() {
+    if (isSwitchingLanguage) {
+      return;
+    }
+
+    const nextLang = document.documentElement.lang === 'zh' ? 'en' : 'zh';
+    const prefersReducedMotion = window.matchMedia &&
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    isSwitchingLanguage = true;
+
+    if (prefersReducedMotion) {
+      setSiteLanguage(nextLang);
+      isSwitchingLanguage = false;
+      return;
+    }
+
+    if (document.startViewTransition) {
+      document.body.classList.add('lang-transitioning');
+
+      function finishTransition() {
+        document.body.classList.remove('lang-transitioning');
+        isSwitchingLanguage = false;
+      }
+
+      try {
+        const transition = document.startViewTransition(function() {
+          setSiteLanguage(nextLang);
+        });
+
+        // Mobile viewport changes can cancel the animation; keep switching usable.
+        transition.ready.catch(function() {});
+        transition.finished.then(finishTransition, function() {
+          setSiteLanguage(nextLang);
+          finishTransition();
+        });
+      } catch (error) {
+        setSiteLanguage(nextLang);
+        finishTransition();
+      }
+
+      return;
+    }
+
+    runFallbackLanguageTransition(nextLang);
+  }
+
+  const langToggle = document.querySelector('#lang-toggle');
+  if (langToggle) {
+    langToggle.onclick = function(event) {
+      event.preventDefault();
+      toggleSiteLanguage();
+    };
+  }
+})();
+</script>
