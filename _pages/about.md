@@ -396,8 +396,13 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="lang-en" markdown="1">
 
-# 💻 Service
+# 💻 Academic Services
 
+- Conference Student Volunteers:
+  - AAAI 2023
+  - SIGIR 2026
+- Conference Program Committee:
+  - ECIR 2027   
 - Conference Reviewers:
   - KDD 2024, 2026, 2027
   - IJCAI 2025, 2026
@@ -409,9 +414,7 @@ Please feel free to contact me by email if you have any questions or are seeking
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - ACM Transactions on Information Systems (TOIS)
   - ACM Transactions on Recommender Systems (TORS)
-- Student Volunteers:
-  - AAAI 2023
-  - SIGIR 2026
+
 
 </div>
 
@@ -419,6 +422,11 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 # 💻 学术服务
 
+- 会议学生志愿者：
+  - AAAI 2023
+  - SIGIR 2026
+- 会议程序委员会：
+  - ECIR 2027
 - 会议审稿人:
   - KDD 2024, 2026, 2027
   - IJCAI 2025, 2026
@@ -430,9 +438,6 @@ Please feel free to contact me by email if you have any questions or are seeking
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - ACM Transactions on Information Systems (TOIS)
   - ACM Transactions on Recommender Systems (TORS)
-- 学生志愿者：
-  - AAAI 2023
-  - SIGIR 2026
 
 </div>
 
@@ -443,9 +448,9 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 👨‍🎓 Mentorships
 
 - Yiming Zheng (2025.11-)&nbsp;&nbsp;B.E. from NEU
-- Yifan Wu (2025.02-2026.02)&nbsp;&nbsp;B.E. from NEU
-- [Zhifu Wei](https://zhifuwei.github.io/) (2024.12-2026.02)&nbsp;&nbsp;B.E. from NEU
-- Yifeng Su (2024.11-2026.05)&nbsp;&nbsp;M.S. from GUET; now Ph.D. at JLU
+- Yifan Wu (2025.02-2026.02)&nbsp;&nbsp;B.E. from NEU; now incoming M.S. at PKU
+- [Zhifu Wei](https://zhifuwei.github.io/) (2024.12-2026.02)&nbsp;&nbsp;B.E. from NEU; now incoming Ph.D. at USTC
+- [Yifeng Su](https://scholar.google.com/citations?user=tJDrGDAAAAAJ) (2024.11-2026.05)&nbsp;&nbsp;M.S. from GUET; now Ph.D. at JLU
 - Minhan Huang (2024.09-)&nbsp;&nbsp;B.E. from NEU; now M.S. at NEU
 
 </div>
@@ -455,9 +460,9 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 👨‍🎓 学生指导
 
 - 郑熠铭（2025.11-）&nbsp;&nbsp;东北大学本科生
-- 武怡凡（2025.02-2026.02）&nbsp;&nbsp;东北大学本科生
-- [魏智富](https://zhifuwei.github.io/)（2024.12-2026.02）&nbsp;&nbsp;东北大学本科生
-- 苏一锋（2024.11-2026.05）&nbsp;&nbsp;桂林电子科技大学硕士生，现为吉林大学博士生
+- 武怡凡（2025.02-2026.02）&nbsp;&nbsp;东北大学本科生，即将进入北京大学攻读硕士
+- [魏智富](https://zhifuwei.github.io/)（2024.12-2026.02）&nbsp;&nbsp;东北大学本科生，即将进入中国科学技术大学攻读博士
+- [苏一锋](https://scholar.google.com/citations?user=tJDrGDAAAAAJ)（2024.11-2026.05）&nbsp;&nbsp;桂林电子科技大学硕士生，现为吉林大学博士生
 - 黄敏涵（2024.09-）&nbsp;&nbsp;东北大学本科生，现为东北大学硕士研究生
 
 </div>
