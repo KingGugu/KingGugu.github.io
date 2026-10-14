@@ -401,14 +401,13 @@ Please feel free to contact me by email if you have any questions or are seeking
 - Conference Student Volunteers:
   - AAAI 2023
   - SIGIR 2026
-- Conference Program Committee:
-  - ECIR 2027   
 - Conference Reviewers:
   - KDD 2024, 2026, 2027
   - IJCAI 2025, 2026
   - SIGIR 2026
   - AAAI 2026, 2027
   - IJCNN 2027
+  - ECIR 2027
 - Journal Reviewers:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
@@ -425,14 +424,13 @@ Please feel free to contact me by email if you have any questions or are seeking
 - 会议学生志愿者：
   - AAAI 2023
   - SIGIR 2026
-- 会议程序委员会：
-  - ECIR 2027
 - 会议审稿人:
   - KDD 2024, 2026, 2027
   - IJCAI 2025, 2026
   - SIGIR 2026
   - AAAI 2026, 2027
   - IJCNN 2027
+  - ECIR 2027
 - 期刊审稿人:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
