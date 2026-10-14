@@ -406,8 +406,8 @@ Please feel free to contact me by email if you have any questions or are seeking
   - IJCAI 2025, 2026
   - SIGIR 2026
   - AAAI 2026, 2027
-  - IJCNN 2027
   - ECIR 2027
+  - IJCNN 2027
 - Journal Reviewers:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
@@ -429,8 +429,8 @@ Please feel free to contact me by email if you have any questions or are seeking
   - IJCAI 2025, 2026
   - SIGIR 2026
   - AAAI 2026, 2027
-  - IJCNN 2027
   - ECIR 2027
+  - IJCNN 2027
 - 期刊审稿人:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
