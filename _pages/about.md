@@ -52,6 +52,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="projects-container lang-en" data-lang="en">
 <ul class="projects-box">
+<li>[<em>2026.10</em>] 🏅 I'm honored to receive the 2026 National Scholarship for Doctoral Students (Top 1%).</li>
 <li>[<em>2026.08</em>] 🎉 I'm honored to be selected into Academic Peak "01 Class" Special Program of Northeastern University.</li>
 <li>[<em>2026.07</em>] 🎉 Our paper on repeated padding for sequential recommendation has been accepted by TKDE.</li>
 <li>[<em>2026.05</em>] 🎉 Our paper on intent-aware sequential recommendation has been accepted by TOIS.</li>
@@ -89,6 +90,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 
 <div class="projects-container lang-zh" data-lang="zh">
 <ul class="projects-box">
+<li>[<em>2026.10</em>] 🏅 我很荣幸获得2026年研究生国家奖学金（Top 1%）。</li>
 <li>[<em>2026.08</em>] 🎉 我很荣幸入选东北大学学术尖峰“01班”。</li>
 <li>[<em>2026.07</em>] 🎉 我们基于重复填充的序列推荐论文被 TKDE 接收。</li>
 <li>[<em>2026.05</em>] 🎉 我们基于意图感知的序列推荐论文被 TOIS 接收。</li>
@@ -373,6 +375,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 🏆 Honors and Awards
 
 - *2026*&nbsp;&nbsp;Academic Peak "01 Class" Special Program of Northeastern University
+- *2026*&nbsp;&nbsp;National Scholarship for Doctoral Students (Top 1%)
 - *2026*&nbsp;&nbsp;SIGIR Student Travel Grant
 - *2025*&nbsp;&nbsp;Doctoral Student Program of the Young S&T Talents Cultivation Project, CAST
 - *2023*&nbsp;&nbsp;National Scholarship for Graduate Student (Top 1%)
@@ -385,6 +388,7 @@ Please feel free to contact me by email if you have any questions or are seeking
 # 🏆 荣誉奖励
 
 - *2026*&nbsp;&nbsp;东北大学学术尖峰“01班”
+- *2026*&nbsp;&nbsp;研究生国家奖学金（Top 1%）
 - *2026*&nbsp;&nbsp;SIGIR学生旅行资助
 - *2025*&nbsp;&nbsp;中国科协青年科技人才培育工程博士生专项计划
 - *2023*&nbsp;&nbsp;研究生国家奖学金（Top 1%）
@@ -404,8 +408,8 @@ Please feel free to contact me by email if you have any questions or are seeking
 - Conference Reviewers:
   - KDD 2024, 2026, 2027
   - IJCAI 2025, 2026
-  - SIGIR 2026
   - AAAI 2026, 2027
+  - SIGIR 2026
   - ECIR 2027
   - IJCNN 2027
 - Journal Reviewers:
@@ -427,8 +431,8 @@ Please feel free to contact me by email if you have any questions or are seeking
 - 会议审稿人:
   - KDD 2024, 2026, 2027
   - IJCAI 2025, 2026
-  - SIGIR 2026
   - AAAI 2026, 2027
+  - SIGIR 2026
   - ECIR 2027
   - IJCNN 2027
 - 期刊审稿人:
