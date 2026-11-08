@@ -407,6 +407,7 @@ Please feel free to contact me by email if you have any questions or are seeking
   - SIGIR 2026
 - Conference Reviewers:
   - KDD 2024, 2026, 2027
+  - WWW 2027
   - IJCAI 2025, 2026
   - AAAI 2026, 2027
   - SIGIR 2026
@@ -430,6 +431,7 @@ Please feel free to contact me by email if you have any questions or are seeking
   - SIGIR 2026
 - 会议审稿人:
   - KDD 2024, 2026, 2027
+  - WWW 2027
   - IJCAI 2025, 2026
   - AAAI 2026, 2027
   - SIGIR 2026
